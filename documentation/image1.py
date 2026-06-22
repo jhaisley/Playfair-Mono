@@ -31,7 +31,7 @@ GRID_VIEW = False  # Toggle this for a grid overlay
 # Handel the "--output" flag
 # For example: $ python3 documentation/image1.py --output documentation/image1.png
 parser = argparse.ArgumentParser()
-parser.add_argument("--output", metavar="PNG", help="where to write the PNG file")
+parser.add_argument("--output", metavar="PNG", help="where to write the PNG file", default="documentation/image1.png")
 args = parser.parse_args()
 
 # Load the font with the parts of fonttools that are imported with the line:
