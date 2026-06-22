@@ -1,19 +1,24 @@
 ## Important!
 
-*Note from Emma Marichal (GF font engineer and onboarder) / 08.01.2025*
+_Note From Jordan Haisley (Playfair Mono Adapter) / 06.22.2026_
+
+This repository is a fork of https://github.com/googlefonts/Playfair in order to adapt the Playfair typeface into a monospaced version. The hope is that this adaptation will be useful for forms, coding, and other applications where a monospaced font is preferred.
+
+This will be maintained in sync with the Google Fonts version of Playfair, as I had a specific business requirement to match the googledocs version of Playfair, and I wanted to make sure that the monospaced adaptation was as close to the original as possible.
+
+## Important!
+
+_Note from Emma Marichal (GF font engineer and onboarder) / 08.01.2025_
 
 This repository is a fork of https://github.com/clauseggers/Playfair. The sources needs to be synchronized in terms of design. Here is the Google Fonts version, following the GF specs.
 
-
 Fonts can't be exported with the Google Fonts tools (fontmake and gftools builder). The principal blockers are:
 
-* masters names
-* special layers (not supported by GlyphsLib)
-* smart and corner components (not supported by GlyphsLib)
+- masters names
+- special layers (not supported by GlyphsLib)
+- smart and corner components (not supported by GlyphsLib)
 
 If you want to export the fonts from the last Playfair version (https://github.com/clauseggers/Playfair), please follow instructions in sources > process-to-read.txt.
-
-
 
 ![**Playfair 2.2** banner](images/Playfair_2_2_banner.svg?)
 
@@ -34,16 +39,17 @@ I have prepared a number of specimen pages that shows Playfair in context.
 
 **Playfair 2.2** Playfair 2.2 is a three axes variable font. This means that you, the designer, can choose any combination of width, weight, and optical size contained within these design extrema.
 
-**Playfair 2.2** is well suited for general purpose typesetting. It has an extra large x-height and short des­cend­ers. Because it is now a *variable font,* you the designer can seamlessly interpolate Playfair in three dimensions:
-- *Widths* from Semi-Condensed to Semi-Expanded
-- *Weights* from Normal to Black
-- *Optical sizes* from Agate to Needlepoint
+**Playfair 2.2** is well suited for general purpose typesetting. It has an extra large x-height and short des­cend­ers. Because it is now a _variable font,_ you the designer can seamlessly interpolate Playfair in three dimensions:
+
+- _Widths_ from Semi-Condensed to Semi-Expanded
+- _Weights_ from Normal to Black
+- _Optical sizes_ from Agate to Needlepoint
 
 The optical size axis is the most extreme of the axes. Along that axis you can seamlessly change the letterforms from the extremely small Agate to the extremely big Needlepoint. The Agate has a very low contrast between the thickest and thinnest parts of its strokes, in fact the contrast is even slightly negative, meaning the horizontal strokes are heavier than the vertical strokes. At the other end the Needlepoint is as high contrast as practically possible. The thinnest strokes are but a single unit wide, meaning that if you were to typeset in 1000 points using a Needlepoint weight, the resulting thinnest strokes would be one point wide.
 
 The **weight** axis adds a second dimension by allowing you to seamlessly change from a light regular to a dark black.
 
-**Playfair 2.2** has been designed with context-dependant alternate designs of some glyphs. These alternates are automatically applied based on the *optical size, the width, and the weight* of the text.
+**Playfair 2.2** has been designed with context-dependant alternate designs of some glyphs. These alternates are automatically applied based on the _optical size, the width, and the weight_ of the text.
 
 The third axis allows you to seamlessly change from Semi-Condensed to Semi-Expanded. Any combination within this design-envelope is now available to you. This kind of flexibility means that you the designer can find the perfect expression in any context. You can make subtle changes to harmonise the way renderings vary across media, devices, or even specific web browsers.
 
@@ -55,15 +61,15 @@ The third axis allows you to seamlessly change from Semi-Condensed to Semi-Expan
 
 **Playfair 2.2** Contains several stylistic alternate letterforms so that you the designer can change how your text appears to the world. Additionally **Playfair 2.2** includes a full complement of small-caps for both the Latin and Cyrillic scripts, common lig­at­ures, rare ligatures including ſ, and dis­cre­tion­ary lig­at­ures.
 
-- Pol­ish altern­ate *kreska* forms are included.
-- Catalan *punt volat* is supported.
-- Dutch *IJ* and *ij* is supported.
+- Pol­ish altern­ate _kreska_ forms are included.
+- Catalan _punt volat_ is supported.
+- Dutch _IJ_ and _ij_ is supported.
 - Case-transformation of Turkic languages is supported.
-- Icelandic and Faroese *fð* and *fþ* ligatures included.
-- Romanian *comma accents* are supported.
-- *Serbian Cyrillic* letterforms are included.
-- *Bulgarian Cyrillic* letterforms are included.
-- Special design of the *її* combination for Ukrainian is included.
+- Icelandic and Faroese _fð_ and _fþ_ ligatures included.
+- Romanian _comma accents_ are supported.
+- _Serbian Cyrillic_ letterforms are included.
+- _Bulgarian Cyrillic_ letterforms are included.
+- Special design of the _її_ combination for Ukrainian is included.
 - Vietnamese double-stacked diacritical marks are included.
 - Mark-to-mark positioning and composition of diacritical marks is supported.
 - Five figure styles included: Old-style proportional, lining proportional, tabular old-style, tabular lining, and small-caps lining. All in both upright and italic styles.
