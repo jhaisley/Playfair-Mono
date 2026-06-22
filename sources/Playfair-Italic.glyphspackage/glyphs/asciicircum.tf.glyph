@@ -6,89 +6,185 @@ layers = (
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
-alignment = -1;
-pos = (45,90);
-ref = asciicircum;
+closed = 1;
+nodes = (
+(
+408.5,
+533,
+l
+),
+(
+586.5,
+413,
+l
+),
+(
+586.5,
+414,
+l
+),
+(
+455.5,
+629,
+l
+),
+(
+454.5,
+629,
+l
+),
+(
+201.5,
+412,
+l
+),
+(
+201.5,
+411,
+l
+)
+);
 }
 );
-width = 555;
-},
-{
-layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
-shapes = (
-{
-alignment = -1;
-pos = (31,90);
-ref = asciicircum;
-}
-);
-width = 652;
+width = 700;
 },
 {
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
-alignment = -1;
-pos = (81,90);
-ref = asciicircum;
+closed = 1;
+nodes = (
+(
+379.5,
+467,
+l
+),
+(
+593.5,
+384,
+l
+),
+(
+593.5,
+385,
+l
+),
+(
+453.5,
+635,
+l
+),
+(
+452.5,
+635,
+l
+),
+(
+175.5,
+383,
+l
+),
+(
+175.5,
+382,
+l
+)
+);
 }
 );
-width = 615;
-},
-{
-layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
-shapes = (
-{
-alignment = -1;
-pos = (55,90);
-ref = asciicircum;
-}
-);
-width = 715;
+width = 700;
 },
 {
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-alignment = -1;
-pos = (72,90);
-ref = asciicircum;
+closed = 1;
+nodes = (
+(
+392.5,
+408,
+l
+),
+(
+543.5,
+300,
+l
+),
+(
+589.5,
+344,
+l
+),
+(
+458.5,
+514,
+l
+),
+(
+400.5,
+514,
+l
+),
+(
+163.5,
+352,
+l
+),
+(
+193.5,
+299,
+l
+)
+);
 }
 );
-width = 607;
-},
-{
-layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
-shapes = (
-{
-alignment = -1;
-pos = (72,90);
-ref = asciicircum;
-}
-);
-width = 720;
+width = 700;
 },
 {
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
-alignment = -1;
-pos = (69,90);
-ref = asciicircum;
+closed = 1;
+nodes = (
+(
+376.5,
+482,
+l
+),
+(
+555.5,
+376,
+l
+),
+(
+605.5,
+420,
+l
+),
+(
+479.5,
+609,
+l
+),
+(
+409.5,
+609,
+l
+),
+(
+184.5,
+419,
+l
+),
+(
+216.5,
+376,
+l
+)
+);
 }
 );
-width = 623;
-},
-{
-layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
-shapes = (
-{
-alignment = -1;
-pos = (70,90);
-ref = asciicircum;
-}
-);
-width = 767;
+width = 700;
 }
 );
 metricRight = "=|";

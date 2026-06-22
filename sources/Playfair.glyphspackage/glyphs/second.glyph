@@ -6,113 +6,225 @@ layers = (
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
-alignment = 1;
-ref = minute;
+closed = 1;
+nodes = (
+(
+410,
+708,
+l
+),
+(
+289,
+708,
+l
+),
+(
+153,
+410,
+l
+),
+(
+154,
+410,
+l
+)
+);
 },
 {
-pos = (172,0);
-ref = minute;
+closed = 1;
+nodes = (
+(
+582,
+708,
+l
+),
+(
+461,
+708,
+l
+),
+(
+325,
+410,
+l
+),
+(
+326,
+410,
+l
+)
+);
 }
 );
-width = 482;
+width = 700;
 },
 {
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
-alignment = 1;
-ref = minute;
+closed = 1;
+nodes = (
+(
+386,
+708,
+l
+),
+(
+265,
+708,
+l
+),
+(
+111,
+421,
+l
+),
+(
+165,
+391,
+l
+)
+);
 },
 {
-pos = (220,0);
-ref = minute;
+closed = 1;
+nodes = (
+(
+606,
+708,
+l
+),
+(
+485,
+708,
+l
+),
+(
+331,
+421,
+l
+),
+(
+385,
+391,
+l
+)
+);
 }
 );
-width = 530;
-},
-{
-layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
-shapes = (
-{
-alignment = 1;
-ref = minute;
-},
-{
-pos = (240,0);
-ref = minute;
-}
-);
-width = 624;
+width = 700;
 },
 {
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
-alignment = 1;
-ref = minute;
+closed = 1;
+nodes = (
+(
+406,
+708,
+l
+),
+(
+195,
+708,
+l
+),
+(
+79,
+410,
+l
+),
+(
+80,
+410,
+l
+)
+);
 },
 {
-pos = (250,0);
-ref = minute;
+closed = 1;
+nodes = (
+(
+656,
+708,
+l
+),
+(
+445,
+708,
+l
+),
+(
+329,
+410,
+l
+),
+(
+330,
+410,
+l
+)
+);
 }
 );
-width = 610;
-},
-{
-layerId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
-shapes = (
-{
-alignment = 1;
-ref = minute;
-},
-{
-pos = (267,0);
-ref = minute;
-}
-);
-width = 683;
-},
-{
-layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
-shapes = (
-{
-alignment = 1;
-ref = minute;
-},
-{
-pos = (203,0);
-ref = minute;
-}
-);
-width = 565;
+width = 700;
 },
 {
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {
-alignment = 1;
-ref = minute;
+closed = 1;
+nodes = (
+(
+396,
+708,
+l
+),
+(
+185,
+708,
+l
+),
+(
+69,
+410,
+l
+),
+(
+125,
+384,
+l
+)
+);
 },
 {
-pos = (270,0);
-ref = minute;
+closed = 1;
+nodes = (
+(
+666,
+708,
+l
+),
+(
+455,
+708,
+l
+),
+(
+339,
+410,
+l
+),
+(
+395,
+384,
+l
+)
+);
 }
 );
-width = 630;
-},
-{
-layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
-shapes = (
-{
-alignment = 1;
-ref = minute;
-},
-{
-pos = (295,0);
-ref = minute;
-}
-);
-width = 735;
+width = 700;
 }
 );
 metricLeft = minute;

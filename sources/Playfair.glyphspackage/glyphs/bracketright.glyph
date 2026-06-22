@@ -7,89 +7,205 @@ layers = (
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
-pos = (336,0);
-ref = bracketleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(
+426,
+772,
+l
+),
+(
+255,
+772,
+l
+),
+(
+255,
+771,
+l
+),
+(
+336,
+771,
+l
+),
+(
+336,
+-180,
+l
+),
+(
+255,
+-180,
+l
+),
+(
+255,
+-181,
+l
+),
+(
+426,
+-181,
+l
+)
+);
 }
 );
-width = 336;
+width = 700;
 },
 {
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
-pos = (298,0);
-ref = bracketleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(
+407,
+772,
+l
+),
+(
+236,
+772,
+l
+),
+(
+236,
+703,
+l
+),
+(
+317,
+703,
+l
+),
+(
+317,
+-112,
+l
+),
+(
+236,
+-112,
+l
+),
+(
+236,
+-181,
+l
+),
+(
+407,
+-181,
+l
+)
+);
 }
 );
-width = 298;
-},
-{
-layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
-shapes = (
-{
-pos = (396,0);
-ref = bracketleft;
-scale = (-1,1);
-}
-);
-width = 396;
+width = 700;
 },
 {
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
-pos = (350,0);
-ref = bracketleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(
+447,
+772,
+l
+),
+(
+226,
+772,
+l
+),
+(
+226,
+771,
+l
+),
+(
+267,
+771,
+l
+),
+(
+267,
+-180,
+l
+),
+(
+226,
+-180,
+l
+),
+(
+226,
+-181,
+l
+),
+(
+447,
+-181,
+l
+)
+);
 }
 );
-width = 350;
-},
-{
-layerId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
-shapes = (
-{
-pos = (404,0);
-ref = bracketleft;
-scale = (-1,1);
-}
-);
-width = 404;
-},
-{
-layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
-shapes = (
-{
-pos = (386,0);
-ref = bracketleft;
-scale = (-1,1);
-}
-);
-width = 386;
+width = 700;
 },
 {
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {
-pos = (329,0);
-ref = bracketleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(
+436.5,
+772,
+l
+),
+(
+215.5,
+772,
+l
+),
+(
+215.5,
+703,
+l
+),
+(
+256.5,
+703,
+l
+),
+(
+256.5,
+-112,
+l
+),
+(
+215.5,
+-112,
+l
+),
+(
+215.5,
+-181,
+l
+),
+(
+436.5,
+-181,
+l
+)
+);
 }
 );
-width = 329;
-},
-{
-layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
-shapes = (
-{
-pos = (409,0);
-ref = bracketleft;
-scale = (-1,1);
-}
-);
-width = 409;
+width = 700;
 }
 );
 metricLeft = "=|bracketleft";

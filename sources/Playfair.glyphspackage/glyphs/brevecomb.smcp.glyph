@@ -6,220 +6,425 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (208,608);
+pos = (
+349,
+608
+);
 },
 {
 name = top;
-pos = (207,743);
+pos = (
+348,
+743
+);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (209,643);
+pos = (
+350,
+643
+);
 }
 );
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
-alignment = 3;
-pos = (0,-100);
-ref = brevecomb.case;
+closed = 1;
+nodes = (
+(
+431,
+688,
+o
+),
+(
+494,
+732,
+o
+),
+(
+529,
+829,
+c
+),
+(
+529,
+830,
+l
+),
+(
+495,
+775,
+o
+),
+(
+426,
+750,
+o
+),
+(
+350,
+750,
+cs
+),
+(
+274,
+750,
+o
+),
+(
+205,
+775,
+o
+),
+(
+171,
+830,
+c
+),
+(
+171,
+829,
+l
+),
+(
+206,
+732,
+o
+),
+(
+269,
+688,
+o
+),
+(
+350,
+688,
+cs
+)
+);
 }
 );
-width = 418;
+width = 700;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (210,608);
+pos = (
+349,
+608
+);
 },
 {
 name = top;
-pos = (209,743);
+pos = (
+348,
+743
+);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (211,643);
+pos = (
+350,
+643
+);
 }
 );
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
-alignment = 3;
-pos = (-22,-100);
-ref = brevecomb.case;
+closed = 1;
+nodes = (
+(
+450,
+673,
+o
+),
+(
+514,
+726,
+o
+),
+(
+541,
+830,
+c
+),
+(
+487,
+850,
+l
+),
+(
+457,
+780,
+o
+),
+(
+418,
+752,
+o
+),
+(
+350,
+752,
+cs
+),
+(
+282,
+752,
+o
+),
+(
+243,
+780,
+o
+),
+(
+213,
+850,
+c
+),
+(
+159,
+830,
+l
+),
+(
+186,
+726,
+o
+),
+(
+250,
+673,
+o
+),
+(
+350,
+673,
+cs
+)
+);
 }
 );
-width = 422;
+width = 700;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (242,608);
+pos = (
+350,
+608
+);
 },
 {
 name = top;
-pos = (242,743);
+pos = (
+349,
+751
+);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (176,643);
-}
+pos = (
+350,
+643
 );
-layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
-shapes = (
-{
-alignment = 3;
-pos = (-11,-100);
-ref = brevecomb.case;
-}
-);
-width = 484;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (247,608);
-},
-{
-name = top;
-pos = (246,751);
-}
-);
-guides = (
-{
-angle = 90;
-pos = (247,643);
 }
 );
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
-alignment = 3;
-pos = (0,-100);
-ref = brevecomb.case;
+closed = 1;
+nodes = (
+(
+460,
+683,
+o
+),
+(
+538,
+748,
+o
+),
+(
+567,
+866,
+c
+),
+(
+567,
+867,
+l
+),
+(
+529,
+820,
+o
+),
+(
+448,
+792,
+o
+),
+(
+350,
+792,
+cs
+),
+(
+252,
+792,
+o
+),
+(
+171,
+820,
+o
+),
+(
+133,
+867,
+c
+),
+(
+133,
+866,
+l
+),
+(
+162,
+748,
+o
+),
+(
+240,
+683,
+o
+),
+(
+350,
+683,
+cs
+)
+);
 }
 );
-width = 494;
+width = 700;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (272,608);
+pos = (
+350,
+608
+);
 },
 {
 name = top;
-pos = (271,751);
+pos = (
+349,
+751
+);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (272,643);
-}
+pos = (
+350,
+643
 );
-layerId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
-shapes = (
-{
-alignment = 3;
-pos = (0,-100);
-ref = brevecomb.case;
-}
-);
-width = 543;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (241,608);
-},
-{
-name = top;
-pos = (240,743);
-}
-);
-guides = (
-{
-angle = 90;
-pos = (242,643);
-}
-);
-layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
-shapes = (
-{
-alignment = 3;
-pos = (0,-100);
-ref = brevecomb.case;
-}
-);
-width = 484;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (249,608);
-},
-{
-name = top;
-pos = (248,751);
-}
-);
-guides = (
-{
-angle = 90;
-pos = (249,643);
 }
 );
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {
-alignment = 3;
-pos = (0,-100);
-ref = brevecomb.case;
+closed = 1;
+nodes = (
+(
+456,
+675,
+o
+),
+(
+533,
+730,
+o
+),
+(
+569,
+831,
+c
+),
+(
+513,
+859,
+l
+),
+(
+469,
+806,
+o
+),
+(
+421,
+784,
+o
+),
+(
+350,
+784,
+cs
+),
+(
+279,
+784,
+o
+),
+(
+231,
+806,
+o
+),
+(
+187,
+859,
+c
+),
+(
+131,
+831,
+l
+),
+(
+167,
+730,
+o
+),
+(
+244,
+675,
+o
+),
+(
+350,
+675,
+cs
+)
+);
 }
 );
-width = 498;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (272,608);
-},
-{
-name = top;
-pos = (272,751);
-}
-);
-guides = (
-{
-angle = 90;
-pos = (256,643);
-},
-{
-pos = (-72,669);
-}
-);
-layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
-shapes = (
-{
-alignment = 3;
-pos = (-2,-100);
-ref = brevecomb.case;
-}
-);
-width = 542;
+width = 700;
 }
 );
 metricLeft = brevecomb;

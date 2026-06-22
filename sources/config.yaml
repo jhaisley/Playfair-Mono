@@ -3,18 +3,16 @@ sources:
   - Playfair-Italic.glyphspackage
 axisOrder:
   - opsz
-  - wdth
   - wght
   - ital
-familyName: Playfair
+familyName: Playfair Mono
 buildStatic: false
 cleanUp: true
 fvarInstanceAxisDflts:
-  wdth: 100
   opsz: 12
   wght: 400
 stat:
-  Playfair[opsz,wdth,wght].ttf:
+  PlayfairMono[opsz,wght].ttf:
   - name: Optical size
     tag: opsz
     values:
@@ -44,16 +42,6 @@ stat:
       value: 96
     - name: 1200pt
       value: 1200
-  - name: Width
-    tag: wdth
-    values:
-    - name: SemiCondensed
-      value: 87.5
-    - name: Normal
-      value: 100
-      flags: 2
-    - name: SemiExpanded
-      value: 112.5
   - name: Weight
     tag: wght
     values:
@@ -80,7 +68,7 @@ stat:
       value: 0
       linkedValue: 1
       flags: 2
-  Playfair-Italic[opsz,wdth,wght].ttf:
+  PlayfairMono-Italic[opsz,wght].ttf:
   - name: Optical size
     tag: opsz
     values:
@@ -110,16 +98,6 @@ stat:
       value: 96
     - name: 1200pt
       value: 1200
-  - name: Width
-    tag: wdth
-    values:
-    - name: SemiCondensed
-      value: 87.5
-    - name: Normal
-      value: 100
-      flags: 2
-    - name: SemiExpanded
-      value: 112.5
   - name: Weight
     tag: wght
     values:

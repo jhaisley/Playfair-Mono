@@ -6,89 +6,265 @@ layers = (
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
-alignment = 3;
-pos = (25,89);
-ref = greaterequal;
-}
+closed = 1;
+nodes = (
+(
+551.5,
+14,
+l
+),
+(
+551.5,
+15,
+l
+),
+(
+50.5,
+15,
+l
+),
+(
+50.5,
+14,
+l
+)
 );
-width = 609;
 },
 {
-layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
-shapes = (
-{
-alignment = 3;
-pos = (25,89);
-ref = greaterequal;
+closed = 1;
+nodes = (
+(
+649.5,
+355,
+l
+),
+(
+211.5,
+582,
+l
+),
+(
+210.5,
+581,
+l
+),
+(
+646.5,
+355,
+l
+),
+(
+83.5,
+129,
+l
+),
+(
+84.5,
+128,
+l
+)
+);
 }
 );
-width = 613;
+width = 700;
 },
 {
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
-alignment = 3;
-pos = (25,89);
-ref = greaterequal;
-}
+closed = 1;
+nodes = (
+(
+551,
+14,
+l
+),
+(
+551,
+15,
+l
+),
+(
+50,
+15,
+l
+),
+(
+50,
+14,
+l
+)
 );
-width = 605;
 },
 {
-layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
-shapes = (
-{
-alignment = 3;
-pos = (25,89);
-ref = greaterequal;
+closed = 1;
+nodes = (
+(
+650,
+355,
+l
+),
+(
+212,
+582,
+l
+),
+(
+211,
+581,
+l
+),
+(
+647,
+355,
+l
+),
+(
+84,
+129,
+l
+),
+(
+85,
+128,
+l
+)
+);
 }
 );
-width = 605;
+width = 700;
 },
 {
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-alignment = 3;
-pos = (25,89);
-ref = greaterequal;
-}
+closed = 1;
+nodes = (
+(
+547.5,
+-26,
+l
+),
+(
+569.5,
+54,
+l
+),
+(
+68.5,
+54,
+l
+),
+(
+46.5,
+-26,
+l
+)
 );
-width = 614;
 },
 {
-layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
-shapes = (
-{
-alignment = 3;
-pos = (25,89);
-ref = greaterequal;
+closed = 1;
+nodes = (
+(
+653.5,
+354,
+l
+),
+(
+237.5,
+577,
+l
+),
+(
+192.5,
+499,
+l
+),
+(
+441.5,
+365,
+l
+),
+(
+117.5,
+231,
+l
+),
+(
+151.5,
+147,
+l
+)
+);
 }
 );
-width = 613;
+width = 700;
 },
 {
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
-alignment = 3;
-pos = (25,89);
-ref = greaterequal;
-}
+closed = 1;
+nodes = (
+(
+548,
+-26,
+l
+),
+(
+570,
+54,
+l
+),
+(
+69,
+54,
+l
+),
+(
+47,
+-26,
+l
+)
 );
-width = 616;
 },
 {
-layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
-shapes = (
-{
-alignment = 3;
-pos = (25,89);
-ref = greaterequal;
+closed = 1;
+nodes = (
+(
+653,
+354,
+l
+),
+(
+237,
+577,
+l
+),
+(
+192,
+499,
+l
+),
+(
+441,
+365,
+l
+),
+(
+117,
+231,
+l
+),
+(
+151,
+147,
+l
+)
+);
 }
 );
-width = 616;
+width = 700;
 }
 );
 }

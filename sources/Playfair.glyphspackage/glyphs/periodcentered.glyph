@@ -6,95 +6,290 @@ layers = (
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
-alignment = 3;
-pos = (0,218);
-ref = period;
+closed = 1;
+nodes = (
+(
+383,
+204,
+o
+),
+(
+410,
+231,
+o
+),
+(
+410,
+264,
+cs
+),
+(
+410,
+297,
+o
+),
+(
+383,
+324,
+o
+),
+(
+350,
+324,
+cs
+),
+(
+317,
+324,
+o
+),
+(
+290,
+297,
+o
+),
+(
+290,
+264,
+cs
+),
+(
+290,
+231,
+o
+),
+(
+317,
+204,
+o
+),
+(
+350,
+204,
+cs
+)
+);
 }
 );
-width = 252;
+width = 700;
 },
 {
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
-alignment = 3;
-pos = (0,218);
-ref = period;
+closed = 1;
+nodes = (
+(
+399,
+204,
+o
+),
+(
+435,
+240,
+o
+),
+(
+435,
+289,
+cs
+),
+(
+435,
+338,
+o
+),
+(
+399,
+374,
+o
+),
+(
+350,
+374,
+cs
+),
+(
+301,
+374,
+o
+),
+(
+265,
+338,
+o
+),
+(
+265,
+289,
+cs
+),
+(
+265,
+240,
+o
+),
+(
+301,
+204,
+o
+),
+(
+350,
+204,
+cs
+)
+);
 }
 );
-width = 314;
-},
-{
-layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
-shapes = (
-{
-alignment = 3;
-pos = (0,218);
-ref = period;
-}
-);
-width = 368;
+width = 700;
 },
 {
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
-alignment = 3;
-pos = (0,218);
-ref = period;
+closed = 1;
+nodes = (
+(
+413,
+204,
+o
+),
+(
+448,
+233,
+o
+),
+(
+448,
+288,
+cs
+),
+(
+448,
+343,
+o
+),
+(
+413,
+372,
+o
+),
+(
+350,
+372,
+cs
+),
+(
+286,
+372,
+o
+),
+(
+252,
+343,
+o
+),
+(
+252,
+288,
+cs
+),
+(
+252,
+233,
+o
+),
+(
+286,
+204,
+o
+),
+(
+350,
+204,
+cs
+)
+);
 }
 );
-width = 282;
-},
-{
-layerId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
-shapes = (
-{
-alignment = 3;
-pos = (0,218);
-ref = period;
-}
-);
-width = 346;
-},
-{
-layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
-shapes = (
-{
-alignment = 3;
-pos = (0,218);
-ref = period;
-}
-);
-width = 298;
+width = 700;
 },
 {
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {
-alignment = 3;
-pos = (0,218);
-ref = period;
+closed = 1;
+nodes = (
+(
+416,
+204,
+o
+),
+(
+454,
+238,
+o
+),
+(
+454,
+295,
+cs
+),
+(
+454,
+353,
+o
+),
+(
+416,
+386,
+o
+),
+(
+350,
+386,
+cs
+),
+(
+284,
+386,
+o
+),
+(
+246,
+353,
+o
+),
+(
+246,
+295,
+cs
+),
+(
+246,
+237,
+o
+),
+(
+284,
+204,
+o
+),
+(
+350,
+204,
+cs
+)
+);
 }
 );
-width = 302;
-},
-{
-layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
-shapes = (
-{
-alignment = 3;
-pos = (0,218);
-ref = period;
-}
-);
-width = 368;
+width = 700;
 }
 );
 metricRight = "=|";
 unicode = 183;
 userData = {
-KernOnSpecialSpacing = {
-};
+KernOnSpecialSpacing = {};
 };
 }

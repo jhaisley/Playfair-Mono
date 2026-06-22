@@ -6,97 +6,225 @@ layers = (
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
-alignment = 3;
-pos = (374,0);
-ref = acutemacroncomb;
-scale = (-1,1);
-}
+closed = 1;
+nodes = (
+(
+425,
+700,
+l
+),
+(
+193,
+700,
+l
+),
+(
+193,
+699,
+l
+),
+(
+425,
+699,
+l
+)
 );
-width = 374;
 },
 {
-layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
-shapes = (
-{
-alignment = 3;
-pos = (428,0);
-ref = acutemacroncomb;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(
+507,
+603,
+l
+),
+(
+425,
+700,
+l
+),
+(
+423,
+700,
+l
+),
+(
+506,
+602,
+l
+)
+);
 }
 );
-width = 428;
+width = 700;
 },
 {
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
-alignment = 3;
-pos = (384,0);
-ref = acutemacroncomb;
-scale = (-1,1);
-}
+closed = 1;
+nodes = (
+(
+446,
+700,
+l
+),
+(
+188,
+700,
+l
+),
+(
+188,
+699,
+l
+),
+(
+446,
+699,
+l
+)
 );
-width = 384;
 },
 {
-layerId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
-shapes = (
-{
-alignment = 3;
-pos = (425,0);
-ref = acutemacroncomb;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(
+528,
+603,
+l
+),
+(
+446,
+700,
+l
+),
+(
+444,
+700,
+l
+),
+(
+527,
+602,
+l
+)
+);
 }
 );
-width = 425;
+width = 700;
 },
 {
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
-alignment = 3;
-pos = (388,0);
-ref = acutemacroncomb;
-scale = (-1,1);
-}
+closed = 1;
+nodes = (
+(
+413,
+757,
+l
+),
+(
+186,
+757,
+l
+),
+(
+186,
+682,
+l
+),
+(
+413,
+682,
+l
+)
 );
-width = 388;
 },
 {
-layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
-shapes = (
-{
-alignment = 3;
-pos = (451,0);
-ref = acutemacroncomb;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(
+514,
+639,
+l
+),
+(
+413,
+757,
+l
+),
+(
+356,
+708,
+l
+),
+(
+457,
+590,
+l
+)
+);
 }
 );
-width = 451;
+width = 700;
 },
 {
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {
-alignment = 3;
-pos = (397,0);
-ref = acutemacroncomb;
-scale = (-1,1);
-}
+closed = 1;
+nodes = (
+(
+432.5,
+757,
+l
+),
+(
+181.5,
+757,
+l
+),
+(
+181.5,
+682,
+l
+),
+(
+432.5,
+682,
+l
+)
 );
-width = 397;
 },
 {
-layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
-shapes = (
-{
-alignment = 3;
-pos = (480,0);
-ref = acutemacroncomb;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(
+533.5,
+639,
+l
+),
+(
+432.5,
+757,
+l
+),
+(
+375.5,
+708,
+l
+),
+(
+476.5,
+590,
+l
+)
+);
 }
 );
-width = 480;
+width = 700;
 }
 );
 metricLeft = macron;
