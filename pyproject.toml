@@ -1,0 +1,15 @@
+[project]
+name = "playfair-mono"
+version = "2.2.0"
+description = "Playfair Mono font project"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fontmake>=3.9.0",
+    "gftools>=0.9.54",
+    "drawbot-skia>=0.5.0",
+    "bumpfontversion>=0.4.1",
+]
+
+[tool.uv]
+managed = true

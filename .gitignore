@@ -1,4 +1,48 @@
-*(Autosaved)*
+*~
+venv
+.venv
+venv-test
+build.stamp
+proof
+fonts
+node_modules
+package-lock.json
+package.json
+master_ufo
+instance_ufos
+subset-files
+.ninja_log
+build.ninja
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Autosaved by application when editing
+######################
+*(تم الحفظ تلقائيًا).*
+*(automaticky uloženo).*
+*(Automatisch gesichert).*
+*(Autosaved).*
+*(guardado automáticamente).*
+*(enregistré automatiquement).*
+*(salvato automaticamente).*
+*（自動保存）.*
+*(자동 저장됨).*
+*(Salvo Automaticamente).*
+*(Автосохранение).*
+*(Otomatik Kaydedildi).*
+*（自动存储）.*
+*（已自動儲存）.*
+
+
+
 *.pyc
 *.idlk
 *.ai
@@ -7,14 +51,4 @@
 *.keyshape
 Backup/
 !fonts/**
-
-# OS generated files #
-######################
-.DS_Store
-._.DS_Store
-.DS_Store?
-**/.DS_Store
-**/._.DS_Store
-.AppleDouble
-.LSOverride
 

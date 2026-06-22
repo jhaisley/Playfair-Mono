@@ -16,8 +16,6 @@ stat:
   - name: Optical size
     tag: opsz
     values:
-    - name: 5pt
-      value: 5
     - name: 6pt
       value: 6
     - name: 7pt
@@ -28,20 +26,12 @@ stat:
       value: 12
     - name: 16pt
       value: 16
-    - name: 21pt
-      value: 21
-    - name: 32pt
-      value: 32
-    - name: 41pt
-      value: 41
     - name: 48pt
       value: 48
     - name: 72pt
       value: 72
     - name: 96pt
       value: 96
-    - name: 1200pt
-      value: 1200
   - name: Weight
     tag: wght
     values:
@@ -72,8 +62,6 @@ stat:
   - name: Optical size
     tag: opsz
     values:
-    - name: 5pt
-      value: 5
     - name: 6pt
       value: 6
     - name: 7pt
@@ -84,20 +72,12 @@ stat:
       value: 12
     - name: 16pt
       value: 16
-    - name: 21pt
-      value: 21
-    - name: 32pt
-      value: 32
-    - name: 41pt
-      value: 41
     - name: 48pt
       value: 48
     - name: 72pt
       value: 72
     - name: 96pt
       value: 96
-    - name: 1200pt
-      value: 1200
   - name: Weight
     tag: wght
     values:

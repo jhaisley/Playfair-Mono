@@ -1,24 +1,41 @@
-## Important!
+## Playfair 2.2 Mono
 
-_Note From Jordan Haisley (Playfair Mono Adapter) / 06.22.2026_
+[![][Fontspector]](https://googlefonts.github.io/googlefonts-project-template/fontspector/fontspector-report.html)
+[![][OpenType]](https://googlefonts.github.io/googlefonts-project-template/fontspector/fontspector-report.html)
+[![][Universal]](https://googlefonts.github.io/googlefonts-project-template/fontspector/fontspector-report.html)
+[![][Google Fonts]](https://googlefonts.github.io/googlefonts-project-template/fontspector/fontspector-report.html)
+[![][Glyphset]](https://googlefonts.github.io/googlefonts-project-template/fontspector/fontspector-report.html)
 
-This repository is a fork of https://github.com/googlefonts/Playfair in order to adapt the Playfair typeface into a monospaced version. The hope is that this adaptation will be useful for forms, coding, and other applications where a monospaced font is preferred.
+[Fontspector]: https://img.shields.io/endpoint?url=https%3A%2F%2Fgooglefonts.github.io%2Fgooglefonts-project-template%2Fbadges%2FFontspectorQA.json
+[OpenType]: https://img.shields.io/endpoint?url=https%3A%2F%2Fgooglefonts.github.io%2Fgooglefonts-project-template%2Fbadges%2FOpentypeSpecificationChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fgooglefonts.github.io%2Fgooglefonts-project-template%2Fbadges%2FUniversalProfileChecks.json
+[Google Fonts]: https://img.shields.io/endpoint?url=https%3A%2F%2Fgooglefonts.github.io%2Fgooglefonts-project-template%2Fbadges%2FFontFileChecks.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fgooglefonts.github.io%2Fgooglefonts-project-template%2Fbadges%2FOutlineCorrectnessChecks.json
+[Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Fgooglefonts.github.io%2Fgooglefonts-project-template%2Fbadges%2FGlyphsetChecks.json
 
-This will be maintained in sync with the Google Fonts version of Playfair, as I had a specific business requirement to match the googledocs version of Playfair, and I wanted to make sure that the monospaced adaptation was as close to the original as possible.
+## About Playfair Mono
 
-## Important!
+Playfair Mono is a monospaced adaptation of the Playfair typeface. It is designed to be used in contexts where a monospaced font is preferred, such as coding, forms, and other applications. The design maintains the aesthetic qualities of the original Playfair while ensuring that each character occupies the same amount of horizontal space.
 
-_Note from Emma Marichal (GF font engineer and onboarder) / 08.01.2025_
+Playfair Mono was adapted by [Jordan Haisley](https://github.com/jhaisley) from the Playfair typeface, which was designed by **[Claus Eggers Sørensen](http://forthehearts.net/)** The monospaced version retains the high contrast and elegant details of the original design while providing a consistent width for all characters.
 
-This repository is a fork of https://github.com/clauseggers/Playfair. The sources needs to be synchronized in terms of design. Here is the Google Fonts version, following the GF specs.
+## Building
 
-Fonts can't be exported with the Google Fonts tools (fontmake and gftools builder). The principal blockers are:
+Fonts are built automatically by GitHub Actions — take a look in the "Actions" tab for the latest build.
 
-- masters names
-- special layers (not supported by GlyphsLib)
-- smart and corner components (not supported by GlyphsLib)
+If you want to build fonts manually on your own computer:
 
-If you want to export the fonts from the last Playfair version (https://github.com/clauseggers/Playfair), please follow instructions in sources > process-to-read.txt.
+- `make build` will produce font files.
+- `make test` will run [Fontspector](https://fonttools.github.io/fontspector/)'s quality assurance tests.
+- `make proof` will generate HTML proof files.
+
+## Changelog
+
+[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver.
+
+**22 June 2026. Version 2.2 Mono**
+
+- MAJOR New release of Playfair Mono, a monospaced adaptation of the original Playfair typeface.
 
 ![**Playfair 2.2** banner](images/Playfair_2_2_banner.svg?)
 
