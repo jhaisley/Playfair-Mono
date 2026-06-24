@@ -12,6 +12,13 @@ pos = (
 468,
 0
 );
+},
+{
+name = bottom;
+pos = (
+318.5,
+0
+);
 }
 );
 background = {
@@ -537,6 +544,13 @@ anchors = (
 name = "#exit";
 pos = (
 515.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+317.5,
 0
 );
 }
@@ -1136,6 +1150,13 @@ pos = (
 560,
 0
 );
+},
+{
+name = bottom;
+pos = (
+304.5,
+0
+);
 }
 );
 background = {
@@ -1689,6 +1710,13 @@ anchors = (
 name = "#exit";
 pos = (
 646,
+0
+);
+},
+{
+name = bottom;
+pos = (
+317.5,
 0
 );
 }

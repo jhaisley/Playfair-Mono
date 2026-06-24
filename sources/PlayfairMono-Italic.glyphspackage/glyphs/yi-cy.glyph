@@ -5,6 +5,64 @@ kernLeft = KO_i;
 kernRight = KO_i;
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+122.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+318.5,
+0
+);
+},
+{
+name = center;
+pos = (
+350.5,
+257
+);
+},
+{
+name = ogonek;
+pos = (
+377.5,
+0
+);
+},
+{
+name = top;
+pos = (
+410.5,
+512
+);
+},
+{
+name = top_low_1;
+pos = (
+404.5,
+492
+);
+},
+{
+name = top_low_2;
+pos = (
+399.5,
+472
+);
+},
+{
+name = top_low_3;
+pos = (
+393.5,
+452
+);
+}
+);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
@@ -306,6 +364,64 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+52.5,
+0
+);
+},
+{
+name = center;
+pos = (
+350.5,
+257
+);
+},
+{
+name = bottom;
+pos = (
+317.5,
+0
+);
+},
+{
+name = ogonek;
+pos = (
+377.5,
+0
+);
+},
+{
+name = top;
+pos = (
+385.5,
+514
+);
+},
+{
+name = top_low_1;
+pos = (
+379.916,
+494
+);
+},
+{
+name = top_low_2;
+pos = (
+374.332,
+474
+);
+},
+{
+name = top_low_3;
+pos = (
+368.748,
+454
+);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -607,6 +723,64 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+102.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+304.5,
+0
+);
+},
+{
+name = center;
+pos = (
+349.5,
+260
+);
+},
+{
+name = ogonek;
+pos = (
+404.5,
+0
+);
+},
+{
+name = top;
+pos = (
+397.5,
+520
+);
+},
+{
+name = top_low_1;
+pos = (
+391.5,
+500
+);
+},
+{
+name = top_low_2;
+pos = (
+386.5,
+480
+);
+},
+{
+name = top_low_3;
+pos = (
+380.5,
+460
+);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -908,6 +1082,64 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+27,
+0
+);
+},
+{
+name = center;
+pos = (
+350,
+260
+);
+},
+{
+name = bottom;
+pos = (
+317.5,
+0
+);
+},
+{
+name = ogonek;
+pos = (
+377.5,
+0
+);
+},
+{
+name = top;
+pos = (
+385.5,
+514
+);
+},
+{
+name = top_low_1;
+pos = (
+379.916,
+494
+);
+},
+{
+name = top_low_2;
+pos = (
+374.332,
+474
+);
+},
+{
+name = top_low_3;
+pos = (
+368.748,
+454
+);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {

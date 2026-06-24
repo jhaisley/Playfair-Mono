@@ -10,6 +10,13 @@ pos = (
 468,
 0
 );
+},
+{
+name = bottom;
+pos = (
+318.5,
+0
+);
 }
 );
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
@@ -343,6 +350,13 @@ anchors = (
 name = "#exit";
 pos = (
 560,
+0
+);
+},
+{
+name = bottom;
+pos = (
+304.5,
 0
 );
 }
@@ -680,6 +694,13 @@ pos = (
 515.5,
 0
 );
+},
+{
+name = bottom;
+pos = (
+317.5,
+0
+);
 }
 );
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
@@ -1013,6 +1034,13 @@ anchors = (
 name = "#exit";
 pos = (
 646,
+0
+);
+},
+{
+name = bottom;
+pos = (
+317.5,
 0
 );
 }
