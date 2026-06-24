@@ -19,6 +19,10 @@ Playfair Mono is a monospaced adaptation of the Playfair typeface. It is designe
 
 Playfair Mono was adapted by [Jordan Haisley](https://github.com/jhaisley) from the Playfair typeface, which was designed by **[Claus Eggers Sørensen](http://forthehearts.net/)** The monospaced version retains the high contrast and elegant details of the original design while providing a consistent width for all characters.
 
+![**Playfair Mono](documentation/image1.png)
+![**Playfair Mono Italic](documentation/image2.png)
+
+
 ## Building
 
 Fonts are built automatically by GitHub Actions — take a look in the "Actions" tab for the latest build.
@@ -37,7 +41,9 @@ If you want to build fonts manually on your own computer:
 
 - MAJOR New release of Playfair Mono, a monospaced adaptation of the original Playfair typeface.
 
-![**Playfair 2.2** banner](images/Playfair_2_2_banner.svg?)
+
+
+![**Playfair 2.2** banner](Images/Playfair_2_2_banner.svg)
 
 ![**Playfair 2.2** Glyph repertoire animation](images/playfair_glyph_repertoire_rom_ita.gif)
 
