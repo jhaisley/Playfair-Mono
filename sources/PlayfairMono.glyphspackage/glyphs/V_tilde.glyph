@@ -3,6 +3,43 @@ glyphname = Vtilde;
 kernRight = KO_V;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+342,
+0
+);
+},
+{
+name = top;
+pos = (
+342,
+948
+);
+},
+{
+name = top_low_1;
+pos = (
+342,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+342,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+342,
+648
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -319,6 +356,43 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+366.097,
+0
+);
+},
+{
+name = top;
+pos = (
+356.899,
+948
+);
+},
+{
+name = top_low_1;
+pos = (
+356.899,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+356.899,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+356.899,
+648
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -635,6 +709,43 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+344.334,
+0
+);
+},
+{
+name = top;
+pos = (
+344.334,
+948
+);
+},
+{
+name = top_low_1;
+pos = (
+344.334,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+344.334,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+344.334,
+648
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -951,6 +1062,43 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+368.111,
+0
+);
+},
+{
+name = top;
+pos = (
+359.688,
+948
+);
+},
+{
+name = top_low_1;
+pos = (
+359.688,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+359.688,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+359.688,
+648
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

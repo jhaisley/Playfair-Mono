@@ -5,6 +5,50 @@ kernLeft = KO_i.smcp;
 kernRight = "KO_ge-cy.smcp";
 layers = (
 {
+anchors = (
+{
+name = "^exit";
+pos = (
+199,
+0
+);
+},
+{
+name = "bottom-franc";
+pos = (
+275,
+220
+);
+},
+{
+name = center;
+pos = (
+275,
+306
+);
+},
+{
+name = stem;
+pos = (
+199,
+250
+);
+},
+{
+name = top;
+pos = (
+344,
+608
+);
+},
+{
+name = "top-franc";
+pos = (
+275,
+331
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -316,6 +360,50 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "^exit";
+pos = (
+231.5,
+0
+);
+},
+{
+name = "bottom-franc";
+pos = (
+297.5,
+196
+);
+},
+{
+name = center;
+pos = (
+297.5,
+276
+);
+},
+{
+name = stem;
+pos = (
+231.5,
+250
+);
+},
+{
+name = top;
+pos = (
+376.5,
+608
+);
+},
+{
+name = "top-franc";
+pos = (
+297.5,
+351
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -627,6 +715,50 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "^exit";
+pos = (
+147,
+0
+);
+},
+{
+name = "bottom-franc";
+pos = (
+271,
+220
+);
+},
+{
+name = center;
+pos = (
+271,
+306
+);
+},
+{
+name = stem;
+pos = (
+147,
+250
+);
+},
+{
+name = top;
+pos = (
+329,
+608
+);
+},
+{
+name = "top-franc";
+pos = (
+271,
+331
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -938,6 +1070,50 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "^exit";
+pos = (
+152,
+0
+);
+},
+{
+name = "bottom-franc";
+pos = (
+257,
+196
+);
+},
+{
+name = center;
+pos = (
+257,
+276
+);
+},
+{
+name = stem;
+pos = (
+152,
+250
+);
+},
+{
+name = top;
+pos = (
+334,
+608
+);
+},
+{
+name = "top-franc";
+pos = (
+257,
+351
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

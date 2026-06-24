@@ -3,6 +3,71 @@ color = 5;
 glyphname = jcircumflex.cv01;
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+395.5,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+485.5,
+256
+);
+},
+{
+name = "^exit";
+pos = (
+395.5,
+0
+);
+},
+{
+name = center;
+pos = (
+440.5,
+257
+);
+},
+{
+name = bottom;
+pos = (
+382.5,
+-181
+);
+},
+{
+name = stem;
+pos = (
+397.5,
+256
+);
+},
+{
+name = top;
+pos = (
+426.5,
+514
+);
+},
+{
+name = topright;
+pos = (
+487.5,
+514
+);
+},
+{
+name = "^entry";
+pos = (
+261,
+0
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -259,6 +324,71 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+420,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+510,
+256
+);
+},
+{
+name = "^entry";
+pos = (
+261,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+420,
+0
+);
+},
+{
+name = center;
+pos = (
+466,
+257
+);
+},
+{
+name = bottom;
+pos = (
+355,
+-181
+);
+},
+{
+name = stem;
+pos = (
+441,
+256
+);
+},
+{
+name = top;
+pos = (
+399,
+514
+);
+},
+{
+name = topright;
+pos = (
+531,
+514
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -515,6 +645,71 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+363.5,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+543.5,
+260
+);
+},
+{
+name = "^exit";
+pos = (
+363.5,
+0
+);
+},
+{
+name = center;
+pos = (
+453.5,
+259
+);
+},
+{
+name = bottom;
+pos = (
+332.5,
+-181
+);
+},
+{
+name = stem;
+pos = (
+353.5,
+260
+);
+},
+{
+name = top;
+pos = (
+429.5,
+519
+);
+},
+{
+name = topright;
+pos = (
+533.5,
+519
+);
+},
+{
+name = "^entry";
+pos = (
+274.5,
+0
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -771,6 +966,71 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+373.5,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+553.5,
+260
+);
+},
+{
+name = "^entry";
+pos = (
+274.5,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+373.5,
+0
+);
+},
+{
+name = center;
+pos = (
+463.5,
+259
+);
+},
+{
+name = bottom;
+pos = (
+317.5,
+-181
+);
+},
+{
+name = stem;
+pos = (
+368.5,
+260
+);
+},
+{
+name = top;
+pos = (
+414.5,
+519
+);
+},
+{
+name = topright;
+pos = (
+548.5,
+519
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

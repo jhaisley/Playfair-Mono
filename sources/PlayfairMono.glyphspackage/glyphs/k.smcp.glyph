@@ -12,6 +12,62 @@ pos = (
 224.5,
 0
 );
+},
+{
+name = bottom;
+pos = (
+359,
+0
+);
+},
+{
+name = stroke;
+pos = (
+173,
+470
+);
+},
+{
+name = top;
+pos = (
+345,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+345,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+345,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+345,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+345,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+345,
+508
+);
 }
 );
 background = {
@@ -781,6 +837,62 @@ pos = (
 243.067,
 0
 );
+},
+{
+name = bottom;
+pos = (
+364,
+0
+);
+},
+{
+name = stroke;
+pos = (
+201.091,
+440
+);
+},
+{
+name = top;
+pos = (
+348.727,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+348.727,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+348.727,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+348.727,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+348.727,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+348.727,
+508
+);
 }
 );
 background = {
@@ -1549,6 +1661,62 @@ name = "^exit";
 pos = (
 242.994,
 0
+);
+},
+{
+name = bottom;
+pos = (
+362.736,
+0
+);
+},
+{
+name = stroke;
+pos = (
+166.509,
+460
+);
+},
+{
+name = top;
+pos = (
+350.472,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+350.472,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+350.472,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+350.472,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+350.472,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+350.472,
+508
 );
 }
 );
@@ -2330,6 +2498,62 @@ name = "^exit";
 pos = (
 282.586,
 0
+);
+},
+{
+name = bottom;
+pos = (
+363.496,
+0
+);
+},
+{
+name = stroke;
+pos = (
+177.249,
+440
+);
+},
+{
+name = top;
+pos = (
+351.799,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+351.799,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+351.799,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+351.799,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+351.799,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+351.799,
+508
 );
 }
 );

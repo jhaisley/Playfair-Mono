@@ -8,7 +8,7 @@ anchors = (
 {
 name = _middlestroke;
 pos = (
-232,
+235,
 257
 );
 }
@@ -264,7 +264,7 @@ anchors = (
 {
 name = _middlestroke;
 pos = (
-244,
+256.5,
 259
 );
 }
@@ -520,7 +520,7 @@ anchors = (
 {
 name = _middlestroke;
 pos = (
-232,
+244,
 257
 );
 }
@@ -776,7 +776,7 @@ anchors = (
 {
 name = _middlestroke;
 pos = (
-258,
+271.5,
 259
 );
 }

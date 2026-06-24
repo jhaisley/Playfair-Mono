@@ -3,6 +3,22 @@ color = 5;
 glyphname = zcaron.ss12;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+301.5,
+0
+);
+},
+{
+name = top;
+pos = (
+405.5,
+512
+);
+}
+);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
@@ -239,6 +255,22 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+297.5,
+0
+);
+},
+{
+name = top;
+pos = (
+361.5,
+512
+);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -475,6 +507,22 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+262.5,
+0
+);
+},
+{
+name = top;
+pos = (
+414.5,
+519
+);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -711,6 +759,22 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+292.5,
+0
+);
+},
+{
+name = top;
+pos = (
+394.5,
+520
+);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {

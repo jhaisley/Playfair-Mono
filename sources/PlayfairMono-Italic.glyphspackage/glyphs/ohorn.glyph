@@ -4,6 +4,71 @@ glyphname = ohorn;
 kernLeft = KO_o;
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+31.5,
+8
+);
+},
+{
+name = bottom;
+pos = (
+281.5,
+0
+);
+},
+{
+name = center;
+pos = (
+355.5,
+257
+);
+},
+{
+name = ogonek;
+pos = (
+374.5,
+0
+);
+},
+{
+name = top;
+pos = (
+409.5,
+512
+);
+},
+{
+name = top_low_1;
+pos = (
+403.916,
+492
+);
+},
+{
+name = top_low_2;
+pos = (
+398.332,
+472
+);
+},
+{
+name = top_low_3;
+pos = (
+392.748,
+452
+);
+},
+{
+name = topright;
+pos = (
+642.5,
+512
+);
+}
+);
 background = {
 shapes = (
 {
@@ -474,6 +539,71 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+-13.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+281.5,
+0
+);
+},
+{
+name = center;
+pos = (
+355.5,
+257
+);
+},
+{
+name = ogonek;
+pos = (
+373.5,
+0
+);
+},
+{
+name = top;
+pos = (
+409.5,
+512
+);
+},
+{
+name = top_low_1;
+pos = (
+403.916,
+492
+);
+},
+{
+name = top_low_2;
+pos = (
+398.332,
+472
+);
+},
+{
+name = top_low_3;
+pos = (
+392.748,
+452
+);
+},
+{
+name = topright;
+pos = (
+642.5,
+512
+);
+}
+);
 background = {
 shapes = (
 {
@@ -974,6 +1104,71 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+-16,
+0
+);
+},
+{
+name = bottom;
+pos = (
+276,
+0
+);
+},
+{
+name = center;
+pos = (
+351,
+260
+);
+},
+{
+name = ogonek;
+pos = (
+420,
+0
+);
+},
+{
+name = top;
+pos = (
+410,
+520
+);
+},
+{
+name = top_low_1;
+pos = (
+404.416,
+500
+);
+},
+{
+name = top_low_2;
+pos = (
+398.832,
+480
+);
+},
+{
+name = top_low_3;
+pos = (
+393.248,
+460
+);
+},
+{
+name = topright;
+pos = (
+678,
+520
+);
+}
+);
 background = {
 shapes = (
 {
@@ -1474,6 +1669,71 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+-43,
+0
+);
+},
+{
+name = bottom;
+pos = (
+281,
+0
+);
+},
+{
+name = center;
+pos = (
+355,
+257
+);
+},
+{
+name = ogonek;
+pos = (
+384,
+0
+);
+},
+{
+name = top;
+pos = (
+410,
+520
+);
+},
+{
+name = top_low_1;
+pos = (
+404.416,
+500
+);
+},
+{
+name = top_low_2;
+pos = (
+398.832,
+480
+);
+},
+{
+name = top_low_3;
+pos = (
+393.248,
+460
+);
+},
+{
+name = topright;
+pos = (
+643,
+520
+);
+}
+);
 background = {
 shapes = (
 {

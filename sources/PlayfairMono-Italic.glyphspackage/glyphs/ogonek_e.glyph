@@ -8,7 +8,7 @@ anchors = (
 {
 name = _ogonek;
 pos = (
-372,
+339.5,
 0
 );
 }
@@ -718,7 +718,7 @@ anchors = (
 {
 name = _ogonek;
 pos = (
-396.5,
+339.5,
 0
 );
 }
@@ -1666,7 +1666,7 @@ anchors = (
 {
 name = _ogonek;
 pos = (
-372,
+339.5,
 0
 );
 }

@@ -3,6 +3,43 @@ glyphname = nacute.loclPLK.smcp;
 kernRight = KO_n.smcp;
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+247.5,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+539.5,
+256
+);
+},
+{
+name = bottom;
+pos = (
+233.5,
+0
+);
+},
+{
+name = stem;
+pos = (
+508.5,
+256
+);
+},
+{
+name = top;
+pos = (
+328.5,
+514
+);
+}
+);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
@@ -374,6 +411,43 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+255.935,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+528.104,
+256
+);
+},
+{
+name = bottom;
+pos = (
+307.282,
+0
+);
+},
+{
+name = stem;
+pos = (
+519.903,
+256
+);
+},
+{
+name = top;
+pos = (
+376.214,
+514
+);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -745,6 +819,43 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+291,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+602,
+260
+);
+},
+{
+name = bottom;
+pos = (
+276,
+0
+);
+},
+{
+name = stem;
+pos = (
+445,
+260
+);
+},
+{
+name = top;
+pos = (
+354,
+519
+);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -1116,6 +1227,43 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+296.252,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+580.653,
+260
+);
+},
+{
+name = bottom;
+pos = (
+307.282,
+0
+);
+},
+{
+name = stem;
+pos = (
+452.913,
+260
+);
+},
+{
+name = top;
+pos = (
+376.214,
+514
+);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {

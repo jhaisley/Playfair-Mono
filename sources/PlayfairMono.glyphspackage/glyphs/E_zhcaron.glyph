@@ -2,6 +2,43 @@
 glyphname = Ezhcaron;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+344.5,
+0
+);
+},
+{
+name = top;
+pos = (
+342.5,
+948
+);
+},
+{
+name = top_low_1;
+pos = (
+342.5,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+342.5,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+342.5,
+648
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -288,6 +325,43 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+339.5,
+0
+);
+},
+{
+name = top;
+pos = (
+337.5,
+948
+);
+},
+{
+name = top_low_1;
+pos = (
+337.5,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+337.5,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+337.5,
+648
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -574,6 +648,43 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+346.5,
+0
+);
+},
+{
+name = top;
+pos = (
+348.5,
+948
+);
+},
+{
+name = top_low_1;
+pos = (
+348.5,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+348.5,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+348.5,
+648
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -860,6 +971,43 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+336.5,
+0
+);
+},
+{
+name = top;
+pos = (
+338.5,
+948
+);
+},
+{
+name = top_low_1;
+pos = (
+338.5,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+338.5,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+338.5,
+648
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

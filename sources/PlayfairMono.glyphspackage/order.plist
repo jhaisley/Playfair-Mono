@@ -2408,5 +2408,7 @@ strokeshortoverlaycomb.smcp,
 "uc-descender-cy.loclBGR",
 "yen-strokes-overlay.smcp",
 _circumflexcomb.viet.narrow,
-_dot.zero.zero
+_dot.zero.zero,
+uni2028,
+uni2029
 )

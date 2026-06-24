@@ -114,7 +114,7 @@ anchors = (
 {
 name = _center;
 pos = (
-356.5,
+357,
 304
 );
 }
@@ -220,7 +220,7 @@ anchors = (
 {
 name = _center;
 pos = (
-352,
+351.5,
 304
 );
 }

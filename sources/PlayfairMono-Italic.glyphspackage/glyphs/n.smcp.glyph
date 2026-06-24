@@ -5,6 +5,22 @@ kernLeft = KO_e.smcp;
 kernRight = KO_n.smcp;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+281.598,
+0
+);
+},
+{
+name = top;
+pos = (
+418.402,
+608
+);
+}
+);
 background = {
 anchors = (
 {
@@ -656,6 +672,22 @@ c
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+282.5,
+0
+);
+},
+{
+name = top;
+pos = (
+409.5,
+608
+);
+}
+);
 background = {
 anchors = (
 {
@@ -2535,6 +2567,22 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+296.12,
+0
+);
+},
+{
+name = top;
+pos = (
+427.036,
+608
+);
+}
+);
 background = {
 anchors = (
 {
@@ -3786,6 +3834,22 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+282.5,
+0
+);
+},
+{
+name = top;
+pos = (
+409.5,
+608
+);
+}
+);
 background = {
 anchors = (
 {

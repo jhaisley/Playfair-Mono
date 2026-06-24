@@ -22,21 +22,21 @@ pos = (
 {
 name = _stem;
 pos = (
-305,
+267,
 256
 );
 },
 {
 name = bottom;
 pos = (
-205,
+167,
 0
 );
 },
 {
 name = top;
 pos = (
-195,
+157,
 512
 );
 }
@@ -184,21 +184,21 @@ pos = (
 {
 name = _stem;
 pos = (
-260,
+232,
 260
 );
 },
 {
 name = bottom;
 pos = (
-210,
+182,
 0
 );
 },
 {
 name = top;
 pos = (
-200,
+172,
 520
 );
 }
@@ -346,21 +346,21 @@ pos = (
 {
 name = _stem;
 pos = (
-274.5,
+237,
 256
 );
 },
 {
 name = bottom;
 pos = (
-174.5,
+137,
 0
 );
 },
 {
 name = top;
 pos = (
-164.5,
+127,
 512
 );
 }
@@ -508,21 +508,21 @@ pos = (
 {
 name = _stem;
 pos = (
-237,
+217,
 260
 );
 },
 {
 name = bottom;
 pos = (
-187,
+167,
 0
 );
 },
 {
 name = top;
 pos = (
-177,
+157,
 520
 );
 }

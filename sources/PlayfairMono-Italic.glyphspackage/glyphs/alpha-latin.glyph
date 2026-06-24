@@ -6,45 +6,66 @@ layers = (
 {
 anchors = (
 {
+name = "#entry";
+pos = (
+3.5,
+0
+);
+},
+{
+name = "#exit";
+pos = (
+414.5,
+256
+);
+},
+{
+name = ogonek;
+pos = (
+453.5,
+0
+);
+},
+{
 name = bottom;
 pos = (
-294,
+271.5,
 0
 );
 },
 {
 name = center;
 pos = (
-306,
+282.5,
 257
 );
 },
 {
 name = top;
 pos = (
-375,
-512
+352.5,
+514
 );
 },
 {
 name = top_low_1;
 pos = (
-369,
-492
+346.916,
+494
 );
 },
 {
 name = top_low_2;
 pos = (
-364,
-472
+341.332,
+474
 );
 },
 {
 name = top_low_3;
 pos = (
-358,
-452
+335.748,
+454
 );
 }
 );
@@ -684,45 +705,66 @@ width = 700;
 {
 anchors = (
 {
+name = "#entry";
+pos = (
+-38.5,
+0
+);
+},
+{
+name = "#exit";
+pos = (
+371.5,
+260
+);
+},
+{
+name = ogonek;
+pos = (
+527,
+0
+);
+},
+{
 name = bottom;
 pos = (
-313,
+318,
 0
 );
 },
 {
 name = center;
 pos = (
-308,
+318,
 257
 );
 },
 {
 name = top;
 pos = (
-398,
-520
+413,
+519
 );
 },
 {
 name = top_low_1;
 pos = (
-392.416,
-500
+407.416,
+499
 );
 },
 {
 name = top_low_2;
 pos = (
-386.832,
-480
+401.832,
+479
 );
 },
 {
 name = top_low_3;
 pos = (
-381.248,
-460
+396.248,
+459
 );
 }
 );
@@ -1320,45 +1362,66 @@ width = 700;
 {
 anchors = (
 {
+name = "#entry";
+pos = (
+-87,
+0
+);
+},
+{
+name = "#exit";
+pos = (
+378,
+256
+);
+},
+{
+name = ogonek;
+pos = (
+453,
+0
+);
+},
+{
 name = bottom;
 pos = (
-263.5,
+271,
 0
 );
 },
 {
 name = center;
 pos = (
-288.5,
+307,
 257
 );
 },
 {
 name = top;
 pos = (
-344.5,
-512
+352,
+514
 );
 },
 {
 name = top_low_1;
 pos = (
-338.5,
-492
+346.416,
+494
 );
 },
 {
 name = top_low_2;
 pos = (
-333.5,
-472
+340.832,
+474
 );
 },
 {
 name = top_low_3;
 pos = (
-327.5,
-452
+335.248,
+454
 );
 }
 );
@@ -1938,45 +2001,66 @@ width = 700;
 {
 anchors = (
 {
+name = "#entry";
+pos = (
+-89.133,
+0
+);
+},
+{
+name = "#exit";
+pos = (
+357,
+260
+);
+},
+{
+name = ogonek;
+pos = (
+458,
+0
+);
+},
+{
 name = bottom;
 pos = (
-324.537,
+276,
 0
 );
 },
 {
 name = center;
 pos = (
-301.389,
+355,
 257
 );
 },
 {
 name = top;
 pos = (
-354.167,
-520
+357,
+514
 );
 },
 {
 name = top_low_1;
 pos = (
-348.611,
-500
+351.416,
+494
 );
 },
 {
 name = top_low_2;
 pos = (
-343.981,
-480
+345.832,
+474
 );
 },
 {
 name = top_low_3;
 pos = (
-338.426,
-460
+340.248,
+454
 );
 }
 );

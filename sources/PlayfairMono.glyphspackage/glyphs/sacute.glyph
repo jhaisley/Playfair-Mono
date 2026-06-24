@@ -4,6 +4,64 @@ kernLeft = KO_s;
 kernRight = KO_s;
 layers = (
 {
+anchors = (
+{
+name = "^exit";
+pos = (
+505,
+0
+);
+},
+{
+name = bottom;
+pos = (
+358,
+0
+);
+},
+{
+name = center;
+pos = (
+355,
+257
+);
+},
+{
+name = top;
+pos = (
+346,
+752
+);
+},
+{
+name = top_low_1;
+pos = (
+346,
+492
+);
+},
+{
+name = top_low_2;
+pos = (
+346,
+472
+);
+},
+{
+name = top_low_3;
+pos = (
+346,
+452
+);
+},
+{
+name = top_low_4;
+pos = (
+346,
+432
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -345,6 +403,64 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "^exit";
+pos = (
+539.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+360.5,
+0
+);
+},
+{
+name = center;
+pos = (
+358.5,
+257
+);
+},
+{
+name = top;
+pos = (
+344.5,
+752
+);
+},
+{
+name = top_low_1;
+pos = (
+344.5,
+492
+);
+},
+{
+name = top_low_2;
+pos = (
+344.5,
+472
+);
+},
+{
+name = top_low_3;
+pos = (
+344.5,
+452
+);
+},
+{
+name = top_low_4;
+pos = (
+344.5,
+432
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -686,6 +802,64 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "^exit";
+pos = (
+533,
+0
+);
+},
+{
+name = bottom;
+pos = (
+353,
+0
+);
+},
+{
+name = center;
+pos = (
+353,
+259
+);
+},
+{
+name = top;
+pos = (
+348,
+760
+);
+},
+{
+name = top_low_1;
+pos = (
+348,
+500
+);
+},
+{
+name = top_low_2;
+pos = (
+348,
+480
+);
+},
+{
+name = top_low_3;
+pos = (
+348,
+460
+);
+},
+{
+name = top_low_4;
+pos = (
+348,
+440
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -1027,6 +1201,64 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "^exit";
+pos = (
+537,
+0
+);
+},
+{
+name = bottom;
+pos = (
+353,
+0
+);
+},
+{
+name = center;
+pos = (
+350,
+259
+);
+},
+{
+name = top;
+pos = (
+343,
+760
+);
+},
+{
+name = top_low_1;
+pos = (
+343,
+500
+);
+},
+{
+name = top_low_2;
+pos = (
+343,
+480
+);
+},
+{
+name = top_low_3;
+pos = (
+343,
+460
+);
+},
+{
+name = top_low_4;
+pos = (
+343,
+440
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

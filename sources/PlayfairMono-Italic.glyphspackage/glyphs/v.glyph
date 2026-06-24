@@ -9,14 +9,14 @@ anchors = (
 {
 name = bottom;
 pos = (
-281,
+284.5,
 0
 );
 },
 {
 name = top;
 pos = (
-408,
+411.5,
 512
 );
 }
@@ -677,14 +677,14 @@ anchors = (
 {
 name = bottom;
 pos = (
-317,
+324,
 0
 );
 },
 {
 name = top;
 pos = (
-444,
+451,
 512
 );
 }
@@ -1347,14 +1347,14 @@ anchors = (
 {
 name = bottom;
 pos = (
-299,
+293.5,
 0
 );
 },
 {
 name = top;
 pos = (
-429,
+423.5,
 520
 );
 }
@@ -1999,14 +1999,14 @@ anchors = (
 {
 name = bottom;
 pos = (
-335.294,
+339.706,
 0
 );
 },
 {
 name = top;
 pos = (
-461.765,
+466.176,
 520
 );
 }

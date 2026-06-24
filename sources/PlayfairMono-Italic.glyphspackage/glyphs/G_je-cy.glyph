@@ -5,6 +5,50 @@ kernLeft = KO_H;
 kernRight = "KO_Ge-cy";
 layers = (
 {
+anchors = (
+{
+name = "^exit";
+pos = (
+103,
+0
+);
+},
+{
+name = "bottom-franc";
+pos = (
+278,
+286
+);
+},
+{
+name = center;
+pos = (
+278,
+356
+);
+},
+{
+name = stem;
+pos = (
+173,
+250
+);
+},
+{
+name = top;
+pos = (
+455,
+948
+);
+},
+{
+name = "top-franc";
+pos = (
+313,
+411
+);
+}
+);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
@@ -316,6 +360,50 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "^exit";
+pos = (
+141,
+0
+);
+},
+{
+name = "bottom-franc";
+pos = (
+283,
+286
+);
+},
+{
+name = center;
+pos = (
+303,
+356
+);
+},
+{
+name = stem;
+pos = (
+211,
+250
+);
+},
+{
+name = top;
+pos = (
+492,
+948
+);
+},
+{
+name = "top-franc";
+pos = (
+318,
+411
+);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -627,6 +715,50 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "^exit";
+pos = (
+77,
+0
+);
+},
+{
+name = "bottom-franc";
+pos = (
+289,
+286
+);
+},
+{
+name = center;
+pos = (
+279,
+356
+);
+},
+{
+name = stem;
+pos = (
+147,
+250
+);
+},
+{
+name = top;
+pos = (
+462,
+948
+);
+},
+{
+name = "top-franc";
+pos = (
+324,
+411
+);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -938,6 +1070,50 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "^exit";
+pos = (
+101,
+0
+);
+},
+{
+name = "bottom-franc";
+pos = (
+314,
+256
+);
+},
+{
+name = center;
+pos = (
+294,
+356
+);
+},
+{
+name = stem;
+pos = (
+171,
+250
+);
+},
+{
+name = top;
+pos = (
+477,
+948
+);
+},
+{
+name = "top-franc";
+pos = (
+349,
+381
+);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {

@@ -2,7 +2,7 @@ import os
 import sys
 import subprocess
 import shutil
-from fontTools.ttLib import TTFont
+from fontTools.ttLib import TTFont, newTable
 from fontTools.otlLib.builder import buildStatTable
 
 # Paths
@@ -17,7 +17,7 @@ roman_font_path = os.path.join(project_dir, "fonts", "variable", "PlayfairMono[o
 italic_font_path = os.path.join(project_dir, "fonts", "variable", "PlayfairMono-Italic[opsz,wght].ttf")
 
 def add_stat_table(font_path, is_italic=False):
-    print(f"Adding STAT table to: {font_path}")
+    print(f"Adding STAT table and meta table to: {font_path}")
     font = TTFont(font_path)
     
     # Define axes and values (only registered fallbacks in Google Fonts Axis Registry)
@@ -73,8 +73,17 @@ def add_stat_table(font_path, is_italic=False):
     ]
     
     buildStatTable(font, axes, elidedFallbackName="Regular")
+    
+    # Inject meta table
+    meta = font["meta"] = newTable("meta")
+    meta.data = {
+        "dlng": "Latn, Cyrl",
+        "slng": "Latn, Cyrl"
+    }
+    print("  Injecting meta table...")
+    
     font.save(font_path)
-    print("  STAT table added successfully.")
+    print("  Post-processing completed successfully.")
 
 def main():
     # 1. Update PATH to include virtualenv Scripts directory so ninja/fontmake work

@@ -205,7 +205,7 @@ anchors = (
 {
 name = _currency;
 pos = (
-350,
+345.927,
 354
 );
 }

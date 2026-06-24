@@ -37,8 +37,22 @@ pos = (
 {
 name = top;
 pos = (
-350,
+365.5,
 512
+);
+},
+{
+name = bottom;
+pos = (
+359.5,
+0
+);
+},
+{
+name = bottomright;
+pos = (
+597.5,
+0
 );
 }
 );
@@ -929,8 +943,22 @@ pos = (
 {
 name = top;
 pos = (
-350,
+363.5,
 520
+);
+},
+{
+name = bottom;
+pos = (
+357.5,
+0
+);
+},
+{
+name = bottomright;
+pos = (
+629.5,
+0
 );
 }
 );
@@ -1821,8 +1849,22 @@ pos = (
 {
 name = top;
 pos = (
-350,
+360.5,
 512
+);
+},
+{
+name = bottom;
+pos = (
+360.5,
+0
+);
+},
+{
+name = bottomright;
+pos = (
+668.5,
+0
 );
 }
 );
@@ -2713,8 +2755,22 @@ pos = (
 {
 name = top;
 pos = (
-350,
+374.5,
 520
+);
+},
+{
+name = bottom;
+pos = (
+368.5,
+0
+);
+},
+{
+name = bottomright;
+pos = (
+670.5,
+0
 );
 }
 );

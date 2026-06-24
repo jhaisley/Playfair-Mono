@@ -3,6 +3,22 @@ glyphname = vdotbelow;
 kernRight = KO_v;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+284.5,
+0
+);
+},
+{
+name = top;
+pos = (
+411.5,
+512
+);
+}
+);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
@@ -379,6 +395,22 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+293.5,
+0
+);
+},
+{
+name = top;
+pos = (
+423.5,
+520
+);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -755,6 +787,22 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+324,
+0
+);
+},
+{
+name = top;
+pos = (
+451,
+512
+);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -1131,6 +1179,22 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+339.706,
+0
+);
+},
+{
+name = top;
+pos = (
+466.176,
+520
+);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {

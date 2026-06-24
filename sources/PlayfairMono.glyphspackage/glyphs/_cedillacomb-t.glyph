@@ -8,7 +8,7 @@ anchors = (
 {
 name = _bottom;
 pos = (
-357,
+328.5,
 0
 );
 }
@@ -168,7 +168,7 @@ anchors = (
 {
 name = _bottom;
 pos = (
-352,
+350,
 0
 );
 }
@@ -328,7 +328,7 @@ anchors = (
 {
 name = _bottom;
 pos = (
-364,
+355,
 0
 );
 }
@@ -488,7 +488,7 @@ anchors = (
 {
 name = _bottom;
 pos = (
-369.5,
+369,
 0
 );
 }

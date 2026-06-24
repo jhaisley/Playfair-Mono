@@ -3,6 +3,22 @@ color = 5;
 glyphname = Ezhcaron.ss12;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+274.5,
+0
+);
+},
+{
+name = top;
+pos = (
+419.5,
+708
+);
+}
+);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
@@ -334,6 +350,22 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+257,
+0
+);
+},
+{
+name = top;
+pos = (
+412,
+708
+);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -665,6 +697,22 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+235.5,
+0
+);
+},
+{
+name = top;
+pos = (
+404.5,
+708
+);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -996,6 +1044,22 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+248.451,
+0
+);
+},
+{
+name = top;
+pos = (
+427.887,
+708
+);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {

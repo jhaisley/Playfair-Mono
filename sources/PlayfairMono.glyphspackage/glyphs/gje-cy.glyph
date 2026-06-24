@@ -5,6 +5,67 @@ kernLeft = KO_n;
 kernRight = "KO_ge-cy";
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+227,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+317,
+256
+);
+},
+{
+name = "%entry";
+pos = (
+-40,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+227,
+0
+);
+},
+{
+name = "^entry";
+},
+{
+name = "^exit";
+pos = (
+408,
+0
+);
+},
+{
+name = center;
+pos = (
+281,
+257
+);
+},
+{
+name = stem;
+pos = (
+227,
+256
+);
+},
+{
+name = top;
+pos = (
+355,
+752
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -336,6 +397,71 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+252.5,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+342.5,
+256
+);
+},
+{
+name = "%entry";
+pos = (
+-85.5,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+252.5,
+0
+);
+},
+{
+name = "^entry";
+pos = (
+76.5,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+503.5,
+0
+);
+},
+{
+name = center;
+pos = (
+296.5,
+234
+);
+},
+{
+name = stem;
+pos = (
+252.5,
+256
+);
+},
+{
+name = top;
+pos = (
+380.5,
+752
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -667,6 +793,67 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+185,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+365,
+260
+);
+},
+{
+name = "%entry";
+pos = (
+-54,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+185,
+0
+);
+},
+{
+name = "^entry";
+},
+{
+name = "^exit";
+pos = (
+432,
+0
+);
+},
+{
+name = center;
+pos = (
+280,
+259
+);
+},
+{
+name = stem;
+pos = (
+185,
+260
+);
+},
+{
+name = top;
+pos = (
+342,
+760
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -998,6 +1185,71 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+199.5,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+379.5,
+260
+);
+},
+{
+name = "%entry";
+pos = (
+-69.5,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+199.5,
+0
+);
+},
+{
+name = "^entry";
+pos = (
+92.5,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+476.5,
+0
+);
+},
+{
+name = center;
+pos = (
+294.5,
+225
+);
+},
+{
+name = stem;
+pos = (
+199.5,
+260
+);
+},
+{
+name = top;
+pos = (
+356.5,
+760
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

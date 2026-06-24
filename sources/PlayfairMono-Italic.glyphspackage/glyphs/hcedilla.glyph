@@ -3,6 +3,50 @@ glyphname = hcedilla;
 kernLeft = KO_h;
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+246,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+530,
+256
+);
+},
+{
+name = bottom;
+pos = (
+300,
+0
+);
+},
+{
+name = center;
+pos = (
+347,
+608
+);
+},
+{
+name = stem;
+pos = (
+443,
+256
+);
+},
+{
+name = top;
+pos = (
+472,
+773
+);
+}
+);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
@@ -414,6 +458,50 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+291,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+602,
+260
+);
+},
+{
+name = bottom;
+pos = (
+286,
+0
+);
+},
+{
+name = center;
+pos = (
+342,
+608
+);
+},
+{
+name = stem;
+pos = (
+415,
+260
+);
+},
+{
+name = top;
+pos = (
+481,
+771
+);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -825,6 +913,50 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+206,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+491,
+256
+);
+},
+{
+name = bottom;
+pos = (
+260.5,
+0
+);
+},
+{
+name = center;
+pos = (
+307.5,
+608
+);
+},
+{
+name = stem;
+pos = (
+514.5,
+256
+);
+},
+{
+name = top;
+pos = (
+442.5,
+773
+);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -1236,6 +1368,50 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+243.845,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+542.322,
+260
+);
+},
+{
+name = bottom;
+pos = (
+260.5,
+0
+);
+},
+{
+name = center;
+pos = (
+307.5,
+608
+);
+},
+{
+name = stem;
+pos = (
+445.5,
+260
+);
+},
+{
+name = top;
+pos = (
+442.5,
+773
+);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {

@@ -3,6 +3,57 @@ glyphname = Tmacronbelow;
 kernRight = KO_T;
 layers = (
 {
+anchors = (
+{
+name = "#exit";
+pos = (
+230.5,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+230.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+185.5,
+0
+);
+},
+{
+name = center;
+pos = (
+281.5,
+354
+);
+},
+{
+name = shortstroke;
+pos = (
+252.5,
+245
+);
+},
+{
+name = stem;
+pos = (
+206.5,
+250
+);
+},
+{
+name = top;
+pos = (
+380.5,
+708
+);
+}
+);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
@@ -324,6 +375,57 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#exit";
+pos = (
+314,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+314,
+0
+);
+},
+{
+name = bottom;
+pos = (
+213,
+0
+);
+},
+{
+name = center;
+pos = (
+311,
+354
+);
+},
+{
+name = shortstroke;
+pos = (
+281,
+245
+);
+},
+{
+name = stem;
+pos = (
+181,
+250
+);
+},
+{
+name = top;
+pos = (
+408,
+708
+);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -645,6 +747,57 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#exit";
+pos = (
+254,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+254,
+0
+);
+},
+{
+name = bottom;
+pos = (
+207,
+0
+);
+},
+{
+name = center;
+pos = (
+305,
+354
+);
+},
+{
+name = shortstroke;
+pos = (
+274,
+245
+);
+},
+{
+name = stem;
+pos = (
+231,
+250
+);
+},
+{
+name = top;
+pos = (
+402,
+708
+);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -966,6 +1119,57 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#exit";
+pos = (
+329.468,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+329.468,
+0
+);
+},
+{
+name = bottom;
+pos = (
+233.97,
+0
+);
+},
+{
+name = center;
+pos = (
+326.603,
+354
+);
+},
+{
+name = shortstroke;
+pos = (
+297.953,
+245
+);
+},
+{
+name = stem;
+pos = (
+202.455,
+250
+);
+},
+{
+name = top;
+pos = (
+420.191,
+708
+);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {

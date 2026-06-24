@@ -5,6 +5,15 @@ kernLeft = KO_t;
 kernRight = KO_t;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+278.5,
+0
+);
+}
+);
 background = {
 anchors = (
 {
@@ -389,6 +398,15 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+266.5,
+0
+);
+}
+);
 background = {
 anchors = (
 {
@@ -787,6 +805,15 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+294.5,
+0
+);
+}
+);
 background = {
 anchors = (
 {
@@ -1185,6 +1212,15 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+267,
+0
+);
+}
+);
 background = {
 anchors = (
 {

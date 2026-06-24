@@ -4,6 +4,29 @@ export = 0;
 glyphname = a.flattened;
 layers = (
 {
+anchors = (
+{
+name = "#exit";
+pos = (
+380.5,
+256
+);
+},
+{
+name = bottom;
+pos = (
+276.5,
+0
+);
+},
+{
+name = center;
+pos = (
+282.5,
+257
+);
+}
+);
 background = {
 anchors = (
 {
@@ -1443,6 +1466,29 @@ c
 width = 700;
 },
 {
+anchors = (
+{
+name = "#exit";
+pos = (
+423.5,
+256
+);
+},
+{
+name = bottom;
+pos = (
+296,
+0
+);
+},
+{
+name = center;
+pos = (
+307,
+257
+);
+}
+);
 background = {
 anchors = (
 {
@@ -2908,6 +2954,29 @@ c
 width = 700;
 },
 {
+anchors = (
+{
+name = "#exit";
+pos = (
+386,
+260
+);
+},
+{
+name = bottom;
+pos = (
+304,
+0
+);
+},
+{
+name = center;
+pos = (
+318,
+257
+);
+}
+);
 background = {
 anchors = (
 {
@@ -8720,6 +8789,29 @@ c
 width = 700;
 },
 {
+anchors = (
+{
+name = "#exit";
+pos = (
+451.5,
+260
+);
+},
+{
+name = bottom;
+pos = (
+328,
+0
+);
+},
+{
+name = center;
+pos = (
+355,
+257
+);
+}
+);
 background = {
 anchors = (
 {

@@ -5,6 +5,74 @@ kernLeft = KO_l;
 kernRight = KO_n;
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+149.5,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+239.5,
+256
+);
+},
+{
+name = "%entry";
+pos = (
+-71.5,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+149.5,
+0
+);
+},
+{
+name = "^entry";
+},
+{
+name = "^exit";
+pos = (
+330.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+360.5,
+0
+);
+},
+{
+name = reversedExit;
+pos = (
+239.5,
+256
+);
+},
+{
+name = stem;
+pos = (
+149.5,
+256
+);
+},
+{
+name = top;
+pos = (
+350.5,
+512
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -421,6 +489,74 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+104.5,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+284.5,
+260
+);
+},
+{
+name = "%entry";
+pos = (
+-74.5,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+114.5,
+0
+);
+},
+{
+name = "^entry";
+},
+{
+name = "^exit";
+pos = (
+351.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+371.5,
+0
+);
+},
+{
+name = reversedExit;
+pos = (
+294.5,
+260
+);
+},
+{
+name = stem;
+pos = (
+114.5,
+260
+);
+},
+{
+name = top;
+pos = (
+355.5,
+520
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -837,6 +973,74 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+162.533,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+245.646,
+256
+);
+},
+{
+name = "%entry";
+pos = (
+-149.604,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+162.533,
+0
+);
+},
+{
+name = "^entry";
+},
+{
+name = "^exit";
+pos = (
+394.327,
+0
+);
+},
+{
+name = bottom;
+pos = (
+357.388,
+0
+);
+},
+{
+name = reversedExit;
+pos = (
+245.646,
+256
+);
+},
+{
+name = stem;
+pos = (
+162.533,
+256
+);
+},
+{
+name = top;
+pos = (
+348.153,
+512
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -1253,6 +1457,78 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+103.056,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+278.056,
+260
+);
+},
+{
+name = "%entry";
+pos = (
+-157.5,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+103.056,
+0
+);
+},
+{
+name = "^entry";
+pos = (
+-0.097,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+372.361,
+0
+);
+},
+{
+name = bottom;
+pos = (
+347.083,
+0
+);
+},
+{
+name = reversedExit;
+pos = (
+278.056,
+260
+);
+},
+{
+name = stem;
+pos = (
+103.056,
+260
+);
+},
+{
+name = top;
+pos = (
+337.361,
+520
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

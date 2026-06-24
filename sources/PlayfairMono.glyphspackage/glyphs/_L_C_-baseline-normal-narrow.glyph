@@ -332,14 +332,14 @@ pos = (
 {
 name = "lower-left";
 pos = (
-335.5,
+305,
 0
 );
 },
 {
 name = stem;
 pos = (
-335.5,
+305,
 256
 );
 }
@@ -487,14 +487,14 @@ pos = (
 {
 name = "lower-left";
 pos = (
-283,
+260,
 0
 );
 },
 {
 name = stem;
 pos = (
-283,
+260,
 260
 );
 }

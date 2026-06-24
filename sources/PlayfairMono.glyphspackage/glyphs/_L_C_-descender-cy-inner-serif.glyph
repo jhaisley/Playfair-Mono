@@ -8,7 +8,7 @@ anchors = (
 {
 name = _stem;
 pos = (
-302.5,
+264.5,
 256
 );
 }
@@ -351,7 +351,7 @@ anchors = (
 {
 name = _stem;
 pos = (
-257,
+229,
 260
 );
 }
@@ -680,7 +680,7 @@ anchors = (
 {
 name = _stem;
 pos = (
-279.5,
+230,
 256
 );
 }
@@ -1023,7 +1023,7 @@ anchors = (
 {
 name = _stem;
 pos = (
-244,
+213.5,
 260
 );
 }

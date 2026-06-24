@@ -20,24 +20,10 @@ pos = (
 );
 },
 {
-name = "%entry";
-pos = (
--39.5,
-0
-);
-},
-{
 name = "%exit";
 pos = (
 227.5,
 0
-);
-},
-{
-name = 2ndTittle;
-pos = (
-695.5,
-512
 );
 },
 {
@@ -52,6 +38,20 @@ name = "^exit";
 pos = (
 408.5,
 0
+);
+},
+{
+name = "%entry";
+pos = (
+-59.5,
+0
+);
+},
+{
+name = 2ndTittle;
+pos = (
+695.5,
+512
 );
 },
 {
@@ -365,24 +365,10 @@ pos = (
 );
 },
 {
-name = "%entry";
-pos = (
--98,
-0
-);
-},
-{
 name = "%exit";
 pos = (
 240,
 0
-);
-},
-{
-name = 2ndTittle;
-pos = (
-776,
-512
 );
 },
 {
@@ -397,6 +383,20 @@ name = "^exit";
 pos = (
 491,
 0
+);
+},
+{
+name = "%entry";
+pos = (
+-118,
+0
+);
+},
+{
+name = 2ndTittle;
+pos = (
+776,
+512
 );
 },
 {
@@ -710,24 +710,10 @@ pos = (
 );
 },
 {
-name = "%entry";
-pos = (
--67.5,
-0
-);
-},
-{
 name = "%exit";
 pos = (
 171.5,
 0
-);
-},
-{
-name = 2ndTittle;
-pos = (
-716.5,
-520
 );
 },
 {
@@ -742,6 +728,20 @@ name = "^exit";
 pos = (
 418.5,
 0
+);
+},
+{
+name = "%entry";
+pos = (
+-87.5,
+0
+);
+},
+{
+name = 2ndTittle;
+pos = (
+716.5,
+520
 );
 },
 {
@@ -1055,24 +1055,10 @@ pos = (
 );
 },
 {
-name = "%entry";
-pos = (
--92.5,
-0
-);
-},
-{
 name = "%exit";
 pos = (
 176.5,
 0
-);
-},
-{
-name = 2ndTittle;
-pos = (
-747.5,
-520
 );
 },
 {
@@ -1087,6 +1073,20 @@ name = "^exit";
 pos = (
 453.5,
 0
+);
+},
+{
+name = "%entry";
+pos = (
+-112.5,
+0
+);
+},
+{
+name = 2ndTittle;
+pos = (
+747.5,
+520
 );
 },
 {

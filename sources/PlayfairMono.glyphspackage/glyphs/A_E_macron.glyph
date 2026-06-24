@@ -3,6 +3,43 @@ glyphname = AEmacron;
 kernRight = KO_E;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+354.751,
+0
+);
+},
+{
+name = top;
+pos = (
+366.629,
+948
+);
+},
+{
+name = top_low_1;
+pos = (
+366.629,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+366.629,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+366.629,
+648
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -469,6 +506,43 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+349.257,
+0
+);
+},
+{
+name = top;
+pos = (
+373.779,
+948
+);
+},
+{
+name = top_low_1;
+pos = (
+373.779,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+373.779,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+373.779,
+648
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -935,6 +1009,43 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+365.572,
+0
+);
+},
+{
+name = top;
+pos = (
+376.695,
+948
+);
+},
+{
+name = top_low_1;
+pos = (
+376.695,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+376.695,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+376.695,
+648
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -1401,6 +1512,43 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+360.187,
+0
+);
+},
+{
+name = top;
+pos = (
+384.2,
+948
+);
+},
+{
+name = top_low_1;
+pos = (
+384.2,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+384.2,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+384.2,
+648
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

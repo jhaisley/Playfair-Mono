@@ -88,7 +88,7 @@ anchors = (
 {
 name = _currency;
 pos = (
-351,
+350,
 0
 );
 }

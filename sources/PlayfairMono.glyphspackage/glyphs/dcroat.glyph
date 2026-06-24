@@ -4,6 +4,71 @@ glyphname = dcroat;
 kernRight = KO_l;
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+440,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+440,
+256
+);
+},
+{
+name = "%entry";
+pos = (
+191,
+0
+);
+},
+{
+name = "^entry";
+pos = (
+335,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+606,
+0
+);
+},
+{
+name = bottom;
+pos = (
+363,
+0
+);
+},
+{
+name = "bottom-right";
+pos = (
+530,
+0
+);
+},
+{
+name = center;
+pos = (
+323,
+257
+);
+},
+{
+name = stem;
+pos = (
+440,
+256
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -285,6 +350,71 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+410,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+410,
+256
+);
+},
+{
+name = "%entry";
+pos = (
+72,
+0
+);
+},
+{
+name = "^entry";
+pos = (
+234,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+586,
+0
+);
+},
+{
+name = bottom;
+pos = (
+347,
+0
+);
+},
+{
+name = "bottom-right";
+pos = (
+500,
+0
+);
+},
+{
+name = center;
+pos = (
+295,
+257
+);
+},
+{
+name = stem;
+pos = (
+410,
+256
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -566,6 +696,71 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+395,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+395,
+260
+);
+},
+{
+name = "%entry";
+pos = (
+206,
+0
+);
+},
+{
+name = "^entry";
+pos = (
+318,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+611,
+0
+);
+},
+{
+name = bottom;
+pos = (
+372,
+0
+);
+},
+{
+name = "bottom-right";
+pos = (
+575,
+0
+);
+},
+{
+name = center;
+pos = (
+322,
+259
+);
+},
+{
+name = stem;
+pos = (
+395,
+260
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -847,6 +1042,71 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+380,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+380,
+260
+);
+},
+{
+name = "%entry";
+pos = (
+161,
+0
+);
+},
+{
+name = "^entry";
+pos = (
+273,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+626,
+0
+);
+},
+{
+name = bottom;
+pos = (
+367,
+0
+);
+},
+{
+name = "bottom-right";
+pos = (
+560,
+0
+);
+},
+{
+name = center;
+pos = (
+310,
+259
+);
+},
+{
+name = stem;
+pos = (
+380,
+260
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

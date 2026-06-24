@@ -2,6 +2,43 @@
 glyphname = Rdblgrave;
 layers = (
 {
+anchors = (
+{
+name = baseline_left;
+pos = (
+115.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+329.5,
+0
+);
+},
+{
+name = center;
+pos = (
+162.5,
+346
+);
+},
+{
+name = stem;
+pos = (
+115.5,
+180
+);
+},
+{
+name = top;
+pos = (
+288.5,
+948
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -543,6 +580,43 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = baseline_left;
+pos = (
+69.321,
+0
+);
+},
+{
+name = bottom;
+pos = (
+344.668,
+0
+);
+},
+{
+name = center;
+pos = (
+168.213,
+346
+);
+},
+{
+name = stem;
+pos = (
+69.321,
+180
+);
+},
+{
+name = top;
+pos = (
+304.917,
+948
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -1084,6 +1158,43 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = baseline_left;
+pos = (
+163.49,
+0
+);
+},
+{
+name = bottom;
+pos = (
+364.564,
+0
+);
+},
+{
+name = center;
+pos = (
+207.651,
+346
+);
+},
+{
+name = stem;
+pos = (
+163.49,
+180
+);
+},
+{
+name = top;
+pos = (
+326.04,
+948
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -1625,6 +1736,43 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = baseline_left;
+pos = (
+94.481,
+0
+);
+},
+{
+name = bottom;
+pos = (
+358.843,
+0
+);
+},
+{
+name = center;
+pos = (
+189.428,
+346
+);
+},
+{
+name = stem;
+pos = (
+94.481,
+180
+);
+},
+{
+name = top;
+pos = (
+320.678,
+948
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

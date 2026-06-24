@@ -4,6 +4,15 @@ glyphname = "ushort-cy.smcp";
 kernRight = "KO_u-cy.smcp";
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (
+358,
+608
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -465,6 +474,15 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = top;
+pos = (
+367.568,
+608
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -926,6 +944,15 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = top;
+pos = (
+357.5,
+608
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -1387,6 +1414,15 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = top;
+pos = (
+372.015,
+608
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

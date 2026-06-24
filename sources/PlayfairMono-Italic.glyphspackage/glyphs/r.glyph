@@ -12,6 +12,20 @@ pos = (
 268.5,
 234
 );
+},
+{
+name = bottom;
+pos = (
+60.5,
+0
+);
+},
+{
+name = top;
+pos = (
+233.5,
+514
+);
 }
 );
 background = {
@@ -491,6 +505,20 @@ name = center;
 pos = (
 292.5,
 224
+);
+},
+{
+name = bottom;
+pos = (
+60.5,
+0
+);
+},
+{
+name = top;
+pos = (
+233.5,
+514
 );
 }
 );
@@ -989,6 +1017,20 @@ name = center;
 pos = (
 251.5,
 234
+);
+},
+{
+name = bottom;
+pos = (
+60.5,
+0
+);
+},
+{
+name = top;
+pos = (
+233.5,
+514
 );
 }
 );
@@ -2186,6 +2228,20 @@ name = center;
 pos = (
 284.5,
 214
+);
+},
+{
+name = bottom;
+pos = (
+60.5,
+0
+);
+},
+{
+name = top;
+pos = (
+233.5,
+514
 );
 }
 );

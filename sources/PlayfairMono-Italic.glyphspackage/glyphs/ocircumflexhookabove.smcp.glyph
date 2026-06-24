@@ -3,6 +3,78 @@ glyphname = ocircumflexhookabove.smcp;
 kernLeft = KO_o.smcp;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+291.2,
+0
+);
+},
+{
+name = center;
+pos = (
+352.8,
+302
+);
+},
+{
+name = horn;
+pos = (
+487.2,
+608
+);
+},
+{
+name = ogonek;
+pos = (
+382.667,
+0
+);
+},
+{
+name = top;
+pos = (
+394.8,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+389.588,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+384.377,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+379.165,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+373.953,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+368.74,
+508
+);
+}
+);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
@@ -329,6 +401,78 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+294.177,
+0
+);
+},
+{
+name = center;
+pos = (
+352.658,
+302
+);
+},
+{
+name = horn;
+pos = (
+461.646,
+608
+);
+},
+{
+name = ogonek;
+pos = (
+387.215,
+0
+);
+},
+{
+name = top;
+pos = (
+392.532,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+387.215,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+382.785,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+377.468,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+373.038,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+367.722,
+508
+);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -655,6 +799,78 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+297.755,
+0
+);
+},
+{
+name = center;
+pos = (
+355.522,
+306
+);
+},
+{
+name = horn;
+pos = (
+477.852,
+608
+);
+},
+{
+name = ogonek;
+pos = (
+421.784,
+0
+);
+},
+{
+name = top;
+pos = (
+382.706,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+377.963,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+373.219,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+368.475,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+363.732,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+358.987,
+508
+);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -981,6 +1197,78 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+295.488,
+0
+);
+},
+{
+name = center;
+pos = (
+352.596,
+302
+);
+},
+{
+name = horn;
+pos = (
+465.08,
+608
+);
+},
+{
+name = ogonek;
+pos = (
+398.455,
+0
+);
+},
+{
+name = top;
+pos = (
+382.88,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+378.048,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+373.217,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+368.385,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+363.554,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+358.721,
+508
+);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {

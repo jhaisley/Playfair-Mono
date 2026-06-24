@@ -20,27 +20,6 @@ pos = (
 );
 },
 {
-name = "%entry";
-pos = (
--41.5,
-0
-);
-},
-{
-name = "%exit";
-pos = (
-225.5,
-0
-);
-},
-{
-name = 2ndTittle;
-pos = (
-693.5,
-512
-);
-},
-{
 name = "^entry";
 },
 {
@@ -51,31 +30,59 @@ pos = (
 );
 },
 {
+name = "%entry";
+pos = (
+0,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+221,
+0
+);
+},
+{
+name = 2ndTittle;
+pos = (
+698,
+512
+);
+},
+{
 name = bar;
 pos = (
-225.5,
-512
+221,
+514
+);
+},
+{
+name = bottom;
+pos = (
+281,
+0
 );
 },
 {
 name = center;
 pos = (
-270.5,
+275,
 512
 );
 },
 {
 name = stem;
 pos = (
-225.5,
+221,
 256
 );
 },
 {
 name = top;
 pos = (
-402.5,
-771
+281,
+758
 );
 }
 );
@@ -336,27 +343,6 @@ pos = (
 );
 },
 {
-name = "%entry";
-pos = (
--69.5,
-0
-);
-},
-{
-name = "%exit";
-pos = (
-169.5,
-0
-);
-},
-{
-name = 2ndTittle;
-pos = (
-714.5,
-520
-);
-},
-{
 name = "^entry";
 },
 {
@@ -367,31 +353,59 @@ pos = (
 );
 },
 {
+name = "%entry";
+pos = (
+-21,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+168,
+0
+);
+},
+{
+name = 2ndTittle;
+pos = (
+716,
+520
+);
+},
+{
 name = bar;
 pos = (
-169.5,
-520
+168,
+519
+);
+},
+{
+name = bottom;
+pos = (
+275,
+0
 );
 },
 {
 name = center;
 pos = (
-259.5,
+261,
 520
 );
 },
 {
 name = stem;
 pos = (
-169.5,
+168,
 260
 );
 },
 {
 name = top;
 pos = (
-378.5,
-771
+270,
+758
 );
 }
 );
@@ -652,27 +666,6 @@ pos = (
 );
 },
 {
-name = "%entry";
-pos = (
--100,
-0
-);
-},
-{
-name = "%exit";
-pos = (
-238,
-0
-);
-},
-{
-name = 2ndTittle;
-pos = (
-774,
-512
-);
-},
-{
 name = "^entry";
 },
 {
@@ -683,31 +676,59 @@ pos = (
 );
 },
 {
+name = "%entry";
+pos = (
+-93.5,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+244.5,
+0
+);
+},
+{
+name = 2ndTittle;
+pos = (
+778.5,
+512
+);
+},
+{
 name = bar;
 pos = (
-238,
-512
+233.5,
+514
+);
+},
+{
+name = bottom;
+pos = (
+293.5,
+0
 );
 },
 {
 name = center;
 pos = (
-284,
+288.5,
 512
 );
 },
 {
 name = stem;
 pos = (
-238,
+244.5,
 256
 );
 },
 {
 name = top;
 pos = (
-424,
-773
+293.5,
+758
 );
 }
 );
@@ -968,27 +989,6 @@ pos = (
 );
 },
 {
-name = "%entry";
-pos = (
--94.5,
-0
-);
-},
-{
-name = "%exit";
-pos = (
-174.5,
-0
-);
-},
-{
-name = 2ndTittle;
-pos = (
-745.5,
-520
-);
-},
-{
 name = "^entry";
 pos = (
 67.5,
@@ -1003,31 +1003,59 @@ pos = (
 );
 },
 {
+name = "%entry";
+pos = (
+-95.5,
+0
+);
+},
+{
+name = "%exit";
+pos = (
+172.5,
+0
+);
+},
+{
+name = 2ndTittle;
+pos = (
+747.5,
+520
+);
+},
+{
 name = bar;
 pos = (
-174.5,
-520
+173.5,
+519
+);
+},
+{
+name = bottom;
+pos = (
+280.5,
+0
 );
 },
 {
 name = center;
 pos = (
-264.5,
+266.5,
 520
 );
 },
 {
 name = stem;
 pos = (
-174.5,
+172.5,
 260
 );
 },
 {
 name = top;
 pos = (
-404.5,
-773
+275.5,
+758
 );
 }
 );

@@ -8,21 +8,21 @@ anchors = (
 {
 name = bottom;
 pos = (
-250,
+265,
 -231
 );
 },
 {
 name = center;
 pos = (
-320,
+335,
 0
 );
 },
 {
 name = top;
 pos = (
-374,
+389,
 512
 );
 }
@@ -979,21 +979,21 @@ anchors = (
 {
 name = bottom;
 pos = (
-215.5,
+232.5,
 -231
 );
 },
 {
 name = center;
 pos = (
-304.5,
+321.5,
 0
 );
 },
 {
 name = top;
 pos = (
-339.5,
+356.5,
 512
 );
 }
@@ -2006,21 +2006,21 @@ anchors = (
 {
 name = bottom;
 pos = (
-245,
+262,
 -231
 );
 },
 {
 name = center;
 pos = (
-318,
+335,
 0
 );
 },
 {
 name = top;
 pos = (
-374,
+391,
 520
 );
 }
@@ -2996,21 +2996,21 @@ anchors = (
 {
 name = bottom;
 pos = (
-227,
+236,
 -231
 );
 },
 {
 name = center;
 pos = (
-314,
+323,
 0
 );
 },
 {
 name = top;
 pos = (
-353,
+362,
 520
 );
 }

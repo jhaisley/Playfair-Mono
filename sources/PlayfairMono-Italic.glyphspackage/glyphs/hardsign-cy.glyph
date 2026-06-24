@@ -3,6 +3,29 @@ color = 4;
 glyphname = "hardsign-cy";
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+266,
+256
+);
+},
+{
+name = bottom;
+pos = (
+301,
+0
+);
+},
+{
+name = top;
+pos = (
+495,
+771
+);
+}
+);
 background = {
 shapes = (
 {
@@ -671,6 +694,29 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+265,
+256
+);
+},
+{
+name = bottom;
+pos = (
+310,
+0
+);
+},
+{
+name = top;
+pos = (
+495,
+773
+);
+}
+);
 background = {
 shapes = (
 {
@@ -1339,6 +1385,29 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+307.5,
+260
+);
+},
+{
+name = bottom;
+pos = (
+304.5,
+0
+);
+},
+{
+name = top;
+pos = (
+509.5,
+771
+);
+}
+);
 background = {
 shapes = (
 {
@@ -2007,6 +2076,29 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+285.734,
+260
+);
+},
+{
+name = bottom;
+pos = (
+309.463,
+0
+);
+},
+{
+name = top;
+pos = (
+413.277,
+773
+);
+}
+);
 background = {
 shapes = (
 {

@@ -8,42 +8,42 @@ anchors = (
 {
 name = bottom;
 pos = (
-289.5,
+300,
 0
 );
 },
 {
 name = center;
 pos = (
-301.5,
+312,
 257
 );
 },
 {
 name = top;
 pos = (
-370.5,
+381,
 512
 );
 },
 {
 name = top_low_1;
 pos = (
-364.5,
+375,
 492
 );
 },
 {
 name = top_low_2;
 pos = (
-359.5,
+370,
 472
 );
 },
 {
 name = top_low_3;
 pos = (
-353.5,
+364,
 452
 );
 }

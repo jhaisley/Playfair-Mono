@@ -737,21 +737,21 @@ anchors = (
 {
 name = bottom;
 pos = (
-360.5,
+357.5,
 0
 );
 },
 {
 name = bottomright;
 pos = (
-632.5,
+629.5,
 0
 );
 },
 {
 name = top;
 pos = (
-366.5,
+363.5,
 520
 );
 }
@@ -1101,21 +1101,21 @@ anchors = (
 {
 name = bottom;
 pos = (
-361.5,
+368.5,
 0
 );
 },
 {
 name = bottomright;
 pos = (
-663.5,
+670.5,
 0
 );
 },
 {
 name = top;
 pos = (
-367.5,
+374.5,
 520
 );
 }

@@ -3,6 +3,64 @@ glyphname = ecedilla;
 kernLeft = KO_e;
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+55.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+294.5,
+0
+);
+},
+{
+name = center;
+pos = (
+351.5,
+257
+);
+},
+{
+name = ogonek;
+pos = (
+373.5,
+0
+);
+},
+{
+name = top;
+pos = (
+413.5,
+512
+);
+},
+{
+name = top_low_1;
+pos = (
+407.916,
+492
+);
+},
+{
+name = top_low_2;
+pos = (
+402.332,
+472
+);
+},
+{
+name = top_low_3;
+pos = (
+396.748,
+452
+);
+}
+);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
@@ -319,6 +377,64 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+20.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+306.5,
+0
+);
+},
+{
+name = center;
+pos = (
+349.5,
+260
+);
+},
+{
+name = ogonek;
+pos = (
+401.5,
+0
+);
+},
+{
+name = top;
+pos = (
+409.5,
+520
+);
+},
+{
+name = top_low_1;
+pos = (
+403.916,
+500
+);
+},
+{
+name = top_low_2;
+pos = (
+398.332,
+480
+);
+},
+{
+name = top_low_3;
+pos = (
+392.748,
+460
+);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -635,6 +751,64 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+6.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+289.5,
+0
+);
+},
+{
+name = center;
+pos = (
+353.5,
+257
+);
+},
+{
+name = ogonek;
+pos = (
+381.5,
+0
+);
+},
+{
+name = top;
+pos = (
+403.5,
+512
+);
+},
+{
+name = top_low_1;
+pos = (
+397.916,
+492
+);
+},
+{
+name = top_low_2;
+pos = (
+392.332,
+472
+);
+},
+{
+name = top_low_3;
+pos = (
+386.748,
+452
+);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -951,6 +1125,64 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+-21.5,
+0
+);
+},
+{
+name = bottom;
+pos = (
+302.5,
+0
+);
+},
+{
+name = center;
+pos = (
+350.5,
+260
+);
+},
+{
+name = ogonek;
+pos = (
+381.5,
+0
+);
+},
+{
+name = top;
+pos = (
+419.5,
+520
+);
+},
+{
+name = top_low_1;
+pos = (
+413.916,
+500
+);
+},
+{
+name = top_low_2;
+pos = (
+408.332,
+480
+);
+},
+{
+name = top_low_3;
+pos = (
+402.748,
+460
+);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {

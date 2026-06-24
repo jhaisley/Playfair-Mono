@@ -19,6 +19,13 @@ pos = (
 462,
 608
 );
+},
+{
+name = bottom;
+pos = (
+263.5,
+0
+);
 }
 );
 background = {
@@ -719,6 +726,13 @@ name = top;
 pos = (
 461,
 608
+);
+},
+{
+name = bottom;
+pos = (
+265,
+0
 );
 }
 );
@@ -1455,6 +1469,13 @@ pos = (
 443.5,
 608
 );
+},
+{
+name = bottom;
+pos = (
+266,
+0
+);
 }
 );
 background = {
@@ -2155,6 +2176,13 @@ name = top;
 pos = (
 477,
 608
+);
+},
+{
+name = bottom;
+pos = (
+264.5,
+0
 );
 }
 );

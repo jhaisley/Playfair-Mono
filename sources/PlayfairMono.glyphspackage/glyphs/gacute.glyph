@@ -2,6 +2,29 @@
 glyphname = gacute;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+342,
+-226
+);
+},
+{
+name = center;
+pos = (
+339,
+0
+);
+},
+{
+name = top;
+pos = (
+327,
+752
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -498,6 +521,29 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+336,
+-231
+);
+},
+{
+name = center;
+pos = (
+343,
+0
+);
+},
+{
+name = top;
+pos = (
+316,
+752
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -994,6 +1040,29 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+357,
+-231
+);
+},
+{
+name = center;
+pos = (
+335,
+0
+);
+},
+{
+name = top;
+pos = (
+323,
+760
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -1490,6 +1559,29 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+361.5,
+-231
+);
+},
+{
+name = center;
+pos = (
+357.5,
+0
+);
+},
+{
+name = top;
+pos = (
+327.5,
+760
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

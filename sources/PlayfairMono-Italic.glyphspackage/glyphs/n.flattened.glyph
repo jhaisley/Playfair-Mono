@@ -4,6 +4,43 @@ export = 0;
 glyphname = n.flattened;
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+323.5,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+595.5,
+256
+);
+},
+{
+name = bottom;
+pos = (
+397.5,
+0
+);
+},
+{
+name = stem;
+pos = (
+508.5,
+256
+);
+},
+{
+name = top;
+pos = (
+475.5,
+512
+);
+}
+);
 background = {
 anchors = (
 {
@@ -1585,6 +1622,43 @@ c
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+334.5,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+607.5,
+256
+);
+},
+{
+name = bottom;
+pos = (
+421.845,
+0
+);
+},
+{
+name = stem;
+pos = (
+519.903,
+256
+);
+},
+{
+name = top;
+pos = (
+464.563,
+512
+);
+}
+);
 background = {
 anchors = (
 {
@@ -3190,6 +3264,43 @@ c
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+341,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+632,
+260
+);
+},
+{
+name = bottom;
+pos = (
+374,
+0
+);
+},
+{
+name = stem;
+pos = (
+445,
+260
+);
+},
+{
+name = top;
+pos = (
+442,
+520
+);
+}
+);
 background = {
 anchors = (
 {
@@ -6659,6 +6770,43 @@ c
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+366.5,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+638.5,
+260
+);
+},
+{
+name = bottom;
+pos = (
+393.689,
+0
+);
+},
+{
+name = stem;
+pos = (
+452.913,
+260
+);
+},
+{
+name = top;
+pos = (
+446.117,
+520
+);
+}
+);
 background = {
 anchors = (
 {

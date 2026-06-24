@@ -3,6 +3,43 @@ glyphname = macute;
 kernRight = KO_n;
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+160.536,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+388.708,
+256
+);
+},
+{
+name = bottom;
+pos = (
+315.367,
+0
+);
+},
+{
+name = stem;
+pos = (
+317.811,
+256
+);
+},
+{
+name = top;
+pos = (
+431.898,
+752
+);
+}
+);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
@@ -489,6 +526,43 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+198.321,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+423.82,
+260
+);
+},
+{
+name = bottom;
+pos = (
+314.376,
+0
+);
+},
+{
+name = stem;
+pos = (
+286.464,
+260
+);
+},
+{
+name = top;
+pos = (
+420.881,
+760
+);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -975,6 +1049,43 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+187.226,
+256
+);
+},
+{
+name = "#exit";
+pos = (
+383.533,
+256
+);
+},
+{
+name = bottom;
+pos = (
+206.911,
+0
+);
+},
+{
+name = stem;
+pos = (
+319.106,
+256
+);
+},
+{
+name = top;
+pos = (
+310.976,
+754
+);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -1461,6 +1572,43 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (
+215.859,
+260
+);
+},
+{
+name = "#exit";
+pos = (
+418.15,
+260
+);
+},
+{
+name = bottom;
+pos = (
+206.911,
+0
+);
+},
+{
+name = stem;
+pos = (
+289.024,
+260
+);
+},
+{
+name = top;
+pos = (
+310.976,
+754
+);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {

@@ -4,6 +4,29 @@ kernLeft = KO_g;
 kernRight = KO_g;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+265,
+-231
+);
+},
+{
+name = center;
+pos = (
+335,
+0
+);
+},
+{
+name = top;
+pos = (
+389,
+752
+);
+}
+);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
@@ -485,6 +508,29 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+262,
+-231
+);
+},
+{
+name = center;
+pos = (
+335,
+0
+);
+},
+{
+name = top;
+pos = (
+391,
+760
+);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -966,6 +1012,29 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+232.5,
+-231
+);
+},
+{
+name = center;
+pos = (
+321.5,
+0
+);
+},
+{
+name = top;
+pos = (
+356.5,
+752
+);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -1447,6 +1516,29 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+236,
+-231
+);
+},
+{
+name = center;
+pos = (
+323,
+0
+);
+},
+{
+name = top;
+pos = (
+362,
+760
+);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {

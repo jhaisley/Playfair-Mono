@@ -15,63 +15,63 @@ pos = (
 {
 name = bottom;
 pos = (
-283.5,
+279,
 0
 );
 },
 {
 name = center;
 pos = (
-270.5,
+266,
 311
 );
 },
 {
 name = stroke;
 pos = (
-97.5,
+93,
 470
 );
 },
 {
 name = top;
 pos = (
-269.5,
+265,
 608
 );
 },
 {
 name = top_low_1;
 pos = (
-269.5,
+265,
 588
 );
 },
 {
 name = top_low_2;
 pos = (
-269.5,
+265,
 568
 );
 },
 {
 name = top_low_3;
 pos = (
-269.5,
+265,
 548
 );
 },
 {
 name = top_low_4;
 pos = (
-269.5,
+265,
 528
 );
 },
 {
 name = top_low_5;
 pos = (
-269.5,
+265,
 508
 );
 }
@@ -1857,63 +1857,63 @@ pos = (
 {
 name = bottom;
 pos = (
-247.5,
+234.5,
 0
 );
 },
 {
 name = center;
 pos = (
-235.5,
+222.5,
 306
 );
 },
 {
 name = stroke;
 pos = (
-40.5,
+27.5,
 440
 );
 },
 {
 name = top;
 pos = (
-234.5,
+221.5,
 608
 );
 },
 {
 name = top_low_1;
 pos = (
-234.5,
+221.5,
 588
 );
 },
 {
 name = top_low_2;
 pos = (
-234.5,
+221.5,
 568
 );
 },
 {
 name = top_low_3;
 pos = (
-234.5,
+221.5,
 548
 );
 },
 {
 name = top_low_4;
 pos = (
-234.5,
+221.5,
 528
 );
 },
 {
 name = top_low_5;
 pos = (
-234.5,
+221.5,
 508
 );
 }

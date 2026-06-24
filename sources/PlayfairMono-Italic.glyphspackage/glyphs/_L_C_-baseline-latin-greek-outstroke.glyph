@@ -248,28 +248,28 @@ pos = (
 {
 name = _stem;
 pos = (
-251.5,
+268.5,
 256
 );
 },
 {
 name = bottom;
 pos = (
-312.5,
+329.5,
 0
 );
 },
 {
 name = bottomright;
 pos = (
-417.5,
+434.5,
 0
 );
 },
 {
 name = stem;
 pos = (
-251.5,
+268.5,
 256
 );
 }

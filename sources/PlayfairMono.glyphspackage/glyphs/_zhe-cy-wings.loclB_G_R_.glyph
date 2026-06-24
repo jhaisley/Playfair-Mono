@@ -8,21 +8,21 @@ anchors = (
 {
 name = baselineMiddle;
 pos = (
-354.079,
+350,
 0
 );
 },
 {
 name = bottomright;
 pos = (
-668.997,
+664.918,
 0
 );
 },
 {
 name = top;
 pos = (
-354.079,
+350,
 514
 );
 }
@@ -986,21 +986,21 @@ anchors = (
 {
 name = baselineMiddle;
 pos = (
-368.09,
+350,
 0
 );
 },
 {
 name = bottomright;
 pos = (
-698.427,
+680.337,
 0
 );
 },
 {
 name = top;
 pos = (
-368.09,
+350,
 519
 );
 }

@@ -8,7 +8,7 @@ anchors = (
 {
 name = "#exit";
 pos = (
-337.5,
+260,
 256
 );
 },
@@ -17,6 +17,41 @@ name = "^exit";
 pos = (
 337.5,
 256
+);
+},
+{
+name = "#entry";
+pos = (
+260,
+256
+);
+},
+{
+name = bottom;
+pos = (
+369,
+0
+);
+},
+{
+name = center;
+pos = (
+377,
+255
+);
+},
+{
+name = top;
+pos = (
+368,
+771
+);
+},
+{
+name = "top-left";
+pos = (
+170,
+512
 );
 }
 );
@@ -639,8 +674,8 @@ anchors = (
 {
 name = "#exit";
 pos = (
-362.5,
-257
+290,
+256
 );
 },
 {
@@ -648,6 +683,41 @@ name = "^exit";
 pos = (
 362.5,
 257
+);
+},
+{
+name = "#entry";
+pos = (
+290,
+256
+);
+},
+{
+name = bottom;
+pos = (
+372,
+0
+);
+},
+{
+name = center;
+pos = (
+405,
+255
+);
+},
+{
+name = top;
+pos = (
+372,
+773
+);
+},
+{
+name = "top-left";
+pos = (
+200,
+512
 );
 }
 );
@@ -1270,7 +1340,7 @@ anchors = (
 {
 name = "#exit";
 pos = (
-377.786,
+305,
 260
 );
 },
@@ -1279,6 +1349,41 @@ name = "^exit";
 pos = (
 377.786,
 260
+);
+},
+{
+name = "#entry";
+pos = (
+305,
+260
+);
+},
+{
+name = bottom;
+pos = (
+372,
+0
+);
+},
+{
+name = center;
+pos = (
+378,
+261
+);
+},
+{
+name = top;
+pos = (
+372,
+771
+);
+},
+{
+name = "top-left";
+pos = (
+125,
+520
 );
 }
 );
@@ -1901,8 +2006,8 @@ anchors = (
 {
 name = "#exit";
 pos = (
-386.497,
-259
+320,
+260
 );
 },
 {
@@ -1910,6 +2015,41 @@ name = "^exit";
 pos = (
 386.497,
 259
+);
+},
+{
+name = "#entry";
+pos = (
+320,
+260
+);
+},
+{
+name = bottom;
+pos = (
+368,
+0
+);
+},
+{
+name = center;
+pos = (
+390,
+261
+);
+},
+{
+name = top;
+pos = (
+369,
+773
+);
+},
+{
+name = "top-left";
+pos = (
+140,
+520
 );
 }
 );

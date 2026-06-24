@@ -8,6 +8,83 @@ layers = (
 anchors = (
 {
 name = entry;
+},
+{
+name = "#entry";
+pos = (
+221.5,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+477.5,
+0
+);
+},
+{
+name = center;
+pos = (
+349.5,
+304
+);
+},
+{
+name = ogonek;
+pos = (
+434.5,
+0
+);
+},
+{
+name = top;
+pos = (
+350.5,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+350.5,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+350.5,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+350.5,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+350.5,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+350.5,
+508
+);
+},
+{
+name = bottom;
+pos = (
+350.5,
+0
+);
 }
 );
 guides = (
@@ -201,6 +278,83 @@ anchors = (
 name = entry;
 pos = (
 90,
+0
+);
+},
+{
+name = "#entry";
+pos = (
+162.5,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+536.5,
+0
+);
+},
+{
+name = center;
+pos = (
+349.5,
+304
+);
+},
+{
+name = ogonek;
+pos = (
+483.5,
+0
+);
+},
+{
+name = top;
+pos = (
+350.5,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+350.5,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+350.5,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+350.5,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+350.5,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+350.5,
+508
+);
+},
+{
+name = bottom;
+pos = (
+350.5,
 0
 );
 }
@@ -400,6 +554,83 @@ width = 700;
 anchors = (
 {
 name = entry;
+},
+{
+name = "#entry";
+pos = (
+182.5,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+516.5,
+0
+);
+},
+{
+name = center;
+pos = (
+350.5,
+304
+);
+},
+{
+name = ogonek;
+pos = (
+451.5,
+0
+);
+},
+{
+name = top;
+pos = (
+351.5,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+351.5,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+351.5,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+351.5,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+351.5,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+351.5,
+508
+);
+},
+{
+name = bottom;
+pos = (
+351.5,
+0
+);
 }
 );
 guides = (
@@ -593,6 +824,83 @@ anchors = (
 name = entry;
 pos = (
 108,
+0
+);
+},
+{
+name = "#entry";
+pos = (
+152.5,
+0
+);
+},
+{
+name = "^exit";
+pos = (
+546.5,
+0
+);
+},
+{
+name = center;
+pos = (
+350.5,
+304
+);
+},
+{
+name = ogonek;
+pos = (
+510.5,
+0
+);
+},
+{
+name = top;
+pos = (
+350.5,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+350.5,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+350.5,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+350.5,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+350.5,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+350.5,
+508
+);
+},
+{
+name = bottom;
+pos = (
+350.5,
 0
 );
 }

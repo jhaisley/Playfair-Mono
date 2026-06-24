@@ -4,6 +4,71 @@ glyphname = Ohorn;
 kernLeft = KO_O;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+351.417,
+0
+);
+},
+{
+name = center;
+pos = (
+350.472,
+354
+);
+},
+{
+name = ogonek;
+pos = (
+437.382,
+0
+);
+},
+{
+name = top;
+pos = (
+349.528,
+708
+);
+},
+{
+name = top_low_1;
+pos = (
+349.528,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+349.528,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+349.528,
+648
+);
+},
+{
+name = topleft;
+pos = (
+18.893,
+708
+);
+},
+{
+name = topright;
+pos = (
+681.107,
+708
+);
+}
+);
 guides = (
 {
 pos = (
@@ -263,6 +328,71 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+351.311,
+0
+);
+},
+{
+name = center;
+pos = (
+350.437,
+354
+);
+},
+{
+name = ogonek;
+pos = (
+439.576,
+0
+);
+},
+{
+name = top;
+pos = (
+349.563,
+708
+);
+},
+{
+name = top_low_1;
+pos = (
+349.563,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+349.563,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+349.563,
+648
+);
+},
+{
+name = topleft;
+pos = (
+43.695,
+708
+);
+},
+{
+name = topright;
+pos = (
+656.305,
+708
+);
+}
+);
 guides = (
 {
 pos = (
@@ -522,6 +652,71 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+350.845,
+0
+);
+},
+{
+name = center;
+pos = (
+350,
+354
+);
+},
+{
+name = ogonek;
+pos = (
+448.068,
+0
+);
+},
+{
+name = top;
+pos = (
+350,
+708
+);
+},
+{
+name = top_low_1;
+pos = (
+350,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+350,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+350,
+648
+);
+},
+{
+name = topleft;
+pos = (
+16.908,
+708
+);
+},
+{
+name = topright;
+pos = (
+682.246,
+708
+);
+}
+);
 guides = (
 {
 pos = (
@@ -781,6 +976,71 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+350.845,
+0
+);
+},
+{
+name = center;
+pos = (
+350,
+354
+);
+},
+{
+name = ogonek;
+pos = (
+448.068,
+0
+);
+},
+{
+name = top;
+pos = (
+350,
+708
+);
+},
+{
+name = top_low_1;
+pos = (
+350,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+350,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+350,
+648
+);
+},
+{
+name = topleft;
+pos = (
+16.908,
+708
+);
+},
+{
+name = topright;
+pos = (
+682.246,
+708
+);
+}
+);
 guides = (
 {
 pos = (

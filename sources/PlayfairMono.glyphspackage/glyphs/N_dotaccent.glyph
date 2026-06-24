@@ -3,6 +3,29 @@ glyphname = Ndotaccent;
 kernRight = KO_N;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+350,
+0
+);
+},
+{
+name = top;
+pos = (
+350,
+948
+);
+},
+{
+name = center;
+pos = (
+350,
+354
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -369,6 +392,29 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+350,
+0
+);
+},
+{
+name = top;
+pos = (
+350,
+948
+);
+},
+{
+name = center;
+pos = (
+350,
+354
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -735,6 +781,29 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+350,
+0
+);
+},
+{
+name = top;
+pos = (
+350,
+948
+);
+},
+{
+name = center;
+pos = (
+350,
+354
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -1101,6 +1170,29 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+350,
+0
+);
+},
+{
+name = top;
+pos = (
+350,
+948
+);
+},
+{
+name = center;
+pos = (
+350,
+354
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

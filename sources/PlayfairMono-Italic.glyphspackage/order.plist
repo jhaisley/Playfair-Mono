@@ -2433,5 +2433,7 @@ _circumflexcomb.viet.narrow,
 _dot.zero.zero,
 _dotaccentcomb.case.light,
 _dot.zero.lf.zero,
-_dot.zero.smcp.zero
+_dot.zero.smcp.zero,
+uni2028,
+uni2029
 )

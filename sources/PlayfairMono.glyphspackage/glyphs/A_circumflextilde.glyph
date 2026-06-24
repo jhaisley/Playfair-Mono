@@ -4,6 +4,57 @@ kernLeft = KO_A;
 kernRight = KO_A;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+357,
+0
+);
+},
+{
+name = center;
+pos = (
+357,
+354
+);
+},
+{
+name = ogonek;
+pos = (
+586,
+0
+);
+},
+{
+name = top;
+pos = (
+356,
+1188
+);
+},
+{
+name = top_low_1;
+pos = (
+356,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+356,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+356,
+648
+);
+}
+);
 guides = (
 {
 angle = 90;
@@ -406,6 +457,57 @@ c
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+354.795,
+0
+);
+},
+{
+name = center;
+pos = (
+353.923,
+354
+);
+},
+{
+name = ogonek;
+pos = (
+580.573,
+0
+);
+},
+{
+name = top;
+pos = (
+353.923,
+1188
+);
+},
+{
+name = top_low_1;
+pos = (
+353.923,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+353.923,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+353.923,
+648
+);
+}
+);
 guides = (
 {
 angle = 90;
@@ -808,6 +910,57 @@ c
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+365.178,
+0
+);
+},
+{
+name = center;
+pos = (
+350.46,
+354
+);
+},
+{
+name = ogonek;
+pos = (
+563.864,
+0
+);
+},
+{
+name = top;
+pos = (
+349.54,
+1188
+);
+},
+{
+name = top_low_1;
+pos = (
+349.54,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+349.54,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+349.54,
+648
+);
+}
+);
 guides = (
 {
 angle = 90;
@@ -1210,6 +1363,57 @@ c
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+374.008,
+0
+);
+},
+{
+name = center;
+pos = (
+360.53,
+354
+);
+},
+{
+name = ogonek;
+pos = (
+555.957,
+0
+);
+},
+{
+name = top;
+pos = (
+360.53,
+1188
+);
+},
+{
+name = top_low_1;
+pos = (
+360.53,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+360.53,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+360.53,
+648
+);
+}
+);
 guides = (
 {
 angle = 90;

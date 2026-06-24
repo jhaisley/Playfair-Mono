@@ -5,6 +5,57 @@ kernLeft = KO_U;
 kernRight = KO_U;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (
+350,
+0
+);
+},
+{
+name = center;
+pos = (
+350,
+354
+);
+},
+{
+name = ogonek;
+pos = (
+437,
+0
+);
+},
+{
+name = top;
+pos = (
+350,
+708
+);
+},
+{
+name = top_low_1;
+pos = (
+350,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+350,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+350,
+648
+);
+}
+);
 guides = (
 {
 pos = (
@@ -324,6 +375,57 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+350,
+0
+);
+},
+{
+name = center;
+pos = (
+350,
+354
+);
+},
+{
+name = ogonek;
+pos = (
+437,
+0
+);
+},
+{
+name = top;
+pos = (
+350,
+708
+);
+},
+{
+name = top_low_1;
+pos = (
+350,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+350,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+350,
+648
+);
+}
+);
 guides = (
 {
 pos = (
@@ -649,6 +751,57 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+350,
+0
+);
+},
+{
+name = center;
+pos = (
+350,
+354
+);
+},
+{
+name = ogonek;
+pos = (
+437,
+0
+);
+},
+{
+name = top;
+pos = (
+350,
+708
+);
+},
+{
+name = top_low_1;
+pos = (
+350,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+350,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+350,
+648
+);
+}
+);
 guides = (
 {
 pos = (
@@ -968,6 +1121,57 @@ l
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (
+350,
+0
+);
+},
+{
+name = center;
+pos = (
+350,
+354
+);
+},
+{
+name = ogonek;
+pos = (
+437,
+0
+);
+},
+{
+name = top;
+pos = (
+350,
+708
+);
+},
+{
+name = top_low_1;
+pos = (
+350,
+688
+);
+},
+{
+name = top_low_2;
+pos = (
+350,
+668
+);
+},
+{
+name = top_low_3;
+pos = (
+350,
+648
+);
+}
+);
 guides = (
 {
 pos = (

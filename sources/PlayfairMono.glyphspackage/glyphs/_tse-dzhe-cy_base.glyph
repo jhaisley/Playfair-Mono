@@ -8,21 +8,21 @@ anchors = (
 {
 name = bottomright;
 pos = (
-550.5,
+546.5,
 0
 );
 },
 {
 name = center;
 pos = (
-347.5,
+350.5,
 0
 );
 },
 {
 name = stem;
 pos = (
-460.5,
+456.5,
 256
 );
 }

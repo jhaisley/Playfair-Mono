@@ -14,13 +14,6 @@ pos = (
 );
 },
 {
-name = bottom;
-pos = (
-273,
-0
-);
-},
-{
 name = bottomright;
 pos = (
 518,
@@ -28,10 +21,17 @@ pos = (
 );
 },
 {
+name = bottom;
+pos = (
+273.5,
+0
+);
+},
+{
 name = top;
 pos = (
-459,
-771
+460.5,
+773
 );
 }
 );
@@ -665,13 +665,6 @@ pos = (
 );
 },
 {
-name = bottom;
-pos = (
-258.5,
-0
-);
-},
-{
 name = bottomright;
 pos = (
 534.5,
@@ -679,9 +672,16 @@ pos = (
 );
 },
 {
+name = bottom;
+pos = (
+258,
+0
+);
+},
+{
 name = top;
 pos = (
-445.5,
+445,
 773
 );
 }
@@ -1342,13 +1342,6 @@ pos = (
 );
 },
 {
-name = bottom;
-pos = (
-283.5,
-0
-);
-},
-{
 name = bottomright;
 pos = (
 573.5,
@@ -1356,10 +1349,17 @@ pos = (
 );
 },
 {
+name = bottom;
+pos = (
+283.5,
+0
+);
+},
+{
 name = top;
 pos = (
-490.5,
-771
+491.5,
+773
 );
 }
 );
@@ -1993,13 +1993,6 @@ pos = (
 );
 },
 {
-name = bottom;
-pos = (
-293.333,
-0
-);
-},
-{
 name = bottomright;
 pos = (
 601.905,
@@ -2007,9 +2000,16 @@ pos = (
 );
 },
 {
+name = bottom;
+pos = (
+292.857,
+0
+);
+},
+{
 name = top;
 pos = (
-471.429,
+470.952,
 773
 );
 }

@@ -3,6 +3,71 @@ glyphname = fdotaccent.smcp;
 kernLeft = KO_i.smcp;
 layers = (
 {
+anchors = (
+{
+name = center;
+pos = (
+272,
+140
+);
+},
+{
+name = stem;
+pos = (
+185,
+250
+);
+},
+{
+name = top;
+pos = (
+364,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+364,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+364,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+364,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+364,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+364,
+508
+);
+},
+{
+name = bottom;
+pos = (
+350.5,
+0
+);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
@@ -414,6 +479,71 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = center;
+pos = (
+299,
+140
+);
+},
+{
+name = stem;
+pos = (
+163,
+250
+);
+},
+{
+name = top;
+pos = (
+403,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+403,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+403,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+403,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+403,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+403,
+508
+);
+},
+{
+name = bottom;
+pos = (
+351.5,
+0
+);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
@@ -825,6 +955,71 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = center;
+pos = (
+313,
+150
+);
+},
+{
+name = stem;
+pos = (
+226,
+250
+);
+},
+{
+name = top;
+pos = (
+405,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+405,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+405,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+405,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+405,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+405,
+508
+);
+},
+{
+name = bottom;
+pos = (
+350.5,
+0
+);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
@@ -1236,6 +1431,71 @@ cs
 width = 700;
 },
 {
+anchors = (
+{
+name = center;
+pos = (
+304.5,
+140
+);
+},
+{
+name = stem;
+pos = (
+168.5,
+250
+);
+},
+{
+name = top;
+pos = (
+408.5,
+608
+);
+},
+{
+name = top_low_1;
+pos = (
+408.5,
+588
+);
+},
+{
+name = top_low_2;
+pos = (
+408.5,
+568
+);
+},
+{
+name = top_low_3;
+pos = (
+408.5,
+548
+);
+},
+{
+name = top_low_4;
+pos = (
+408.5,
+528
+);
+},
+{
+name = top_low_5;
+pos = (
+408.5,
+508
+);
+},
+{
+name = bottom;
+pos = (
+350.5,
+0
+);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {

@@ -8,7 +8,7 @@ anchors = (
 {
 name = "#entry";
 pos = (
-434.5,
+-83,
 256
 );
 },
@@ -22,7 +22,7 @@ pos = (
 {
 name = bottom;
 pos = (
-357.5,
+331,
 0
 );
 },
@@ -36,8 +36,50 @@ pos = (
 {
 name = center;
 pos = (
-317.5,
+323,
 257
+);
+},
+{
+name = "^entry";
+pos = (
+36,
+0
+);
+},
+{
+name = ogonek;
+pos = (
+550,
+0
+);
+},
+{
+name = top;
+pos = (
+324,
+512
+);
+},
+{
+name = top_low_1;
+pos = (
+324,
+492
+);
+},
+{
+name = top_low_2;
+pos = (
+324,
+472
+);
+},
+{
+name = top_low_3;
+pos = (
+324,
+452
 );
 }
 );
@@ -331,7 +373,7 @@ anchors = (
 {
 name = "#entry";
 pos = (
-395,
+-39.5,
 260
 );
 },
@@ -345,7 +387,7 @@ pos = (
 {
 name = bottom;
 pos = (
-372,
+355.5,
 0
 );
 },
@@ -359,8 +401,50 @@ pos = (
 {
 name = center;
 pos = (
-322,
+339.5,
 259
+);
+},
+{
+name = "^entry";
+pos = (
+31.5,
+0
+);
+},
+{
+name = ogonek;
+pos = (
+574.5,
+0
+);
+},
+{
+name = top;
+pos = (
+339.5,
+520
+);
+},
+{
+name = top_low_1;
+pos = (
+339.5,
+500
+);
+},
+{
+name = top_low_2;
+pos = (
+339.5,
+480
+);
+},
+{
+name = top_low_3;
+pos = (
+339.5,
+460
 );
 }
 );
@@ -654,7 +738,7 @@ anchors = (
 {
 name = "#entry";
 pos = (
-409.5,
+-159,
 256
 );
 },
@@ -668,7 +752,7 @@ pos = (
 {
 name = bottom;
 pos = (
-346.5,
+316,
 0
 );
 },
@@ -682,8 +766,50 @@ pos = (
 {
 name = center;
 pos = (
-294.5,
+295,
 257
+);
+},
+{
+name = "^entry";
+pos = (
+-104,
+0
+);
+},
+{
+name = ogonek;
+pos = (
+534,
+0
+);
+},
+{
+name = top;
+pos = (
+295,
+512
+);
+},
+{
+name = top_low_1;
+pos = (
+295,
+492
+);
+},
+{
+name = top_low_2;
+pos = (
+295,
+472
+);
+},
+{
+name = top_low_3;
+pos = (
+295,
+452
 );
 }
 );
@@ -977,7 +1103,7 @@ anchors = (
 {
 name = "#entry";
 pos = (
-375,
+-94,
 260
 );
 },
@@ -991,7 +1117,7 @@ pos = (
 {
 name = bottom;
 pos = (
-362,
+335,
 0
 );
 },
@@ -1005,8 +1131,50 @@ pos = (
 {
 name = center;
 pos = (
-305,
+330,
 259
+);
+},
+{
+name = "^entry";
+pos = (
+-35,
+0
+);
+},
+{
+name = ogonek;
+pos = (
+554,
+0
+);
+},
+{
+name = top;
+pos = (
+308,
+520
+);
+},
+{
+name = top_low_1;
+pos = (
+308,
+500
+);
+},
+{
+name = top_low_2;
+pos = (
+308,
+480
+);
+},
+{
+name = top_low_3;
+pos = (
+308,
+460
 );
 }
 );
